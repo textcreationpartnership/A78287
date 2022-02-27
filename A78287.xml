@@ -1,0 +1,3754 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The odes of Casimire translated by G.H.</title>
+            <author>Sarbiewski, Maciej Kazimierz, 1595-1640.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 79 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78287</idno>
+            <idno type="STC">Wing C1214</idno>
+            <idno type="STC">Thomason E1163_2</idno>
+            <idno type="STC">ESTC R210098</idno>
+            <idno type="EEBO-CITATION">99868926</idno>
+            <idno type="PROQUEST">99868926</idno>
+            <idno type="VID">121283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121283)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 251:E1163[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The odes of Casimire translated by G.H.</title>
+                  <author>Sarbiewski, Maciej Kazimierz, 1595-1640.</author>
+                  <author>Hills, G., translator.</author>
+               </titleStmt>
+               <extent>[14], 141, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for Humphrey Moseley, at the signe of the Princes Armes in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With additional engraved [by W.M. sculp.] title page that lacks "for T.W." in the imprint.</note>
+                  <note>A translation, by G. Hills, of the original by Maciej Kazimierz Sarbiewski.</note>
+                  <note>In English and Latin on facing pages.</note>
+                  <note>Translator's name from Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div xml:lang="eng" type="poem">
+            <pb facs="tcp:121283:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:121283:2"/>
+            <l>THE <hi>Maſters</hi> of the Lyrick wit—</l>
+            <l>The two <hi>Tops</hi> of the <hi>Muſes,</hi> ſit</l>
+            <l>Vpon the Muſes two-top'd Hill</l>
+            <l>And all eares with their ſmooth ſtrains fill:</l>
+            <l>
+               <hi>Apollo's</hi> courteous hand hold's downe</l>
+            <l>Between them both a Golden Crowne;</l>
+            <l>They both contend, yet both agree</l>
+            <l>The diſcord makes our harmony.</l>
+            <l>Liſt then to the all-quickning lyre</l>
+            <l>Of <hi>Horace</hi> and of <hi>Caſimire.</hi>
+            </l>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:121283:2"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>THE ODES of CASIMIRE.</hi>
+                  </p>
+                  <p>Tranſlated by <hi>G. H.</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>Printed for <hi>Humphrey Moſeley</hi> at the Princes-Armes in Pauls Church yard <hi>1646.</hi> W. M. ſculp;</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:121283:3"/>
+            <pb facs="tcp:121283:3" rendition="simple:additions"/>
+            <p>THE ODES OF CASIMIRE Tranſlated by <hi>G. H.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T.W.</hi> for <hi>Humphrey Moſeley,</hi> at the ſigne of the Princes Armes in <hi>Pauls</hi> Church-yard, 1646.</p>
+         </div>
+         <div xml:lang="lat" type="dedication">
+            <pb facs="tcp:121283:4"/>
+            <pb facs="tcp:121283:4"/>
+            <head>VIRO VERE GENEROSO, Et meritiſsimè à me colendo <hi>BERNARDO HYDE,</hi> Armig.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Ibi ſiſto quod tuum eſt; Tu nobis haec feciſti otia: quod igitur à filiis tuis ingenuis &amp; chariſſimis, eripui temporis, Tibi Patri totum reſtituendum curavi; &amp; ſic non furtum ſed Tranſlatio exiſtimetur. Cum equidem primulum te, <hi>Caſimirum</hi> por<g ref="char:EOLhyphen"/>tentoſi ingenii virum, &amp; admirandi a<g ref="char:EOLhyphen"/>cuminis, ſummâ cum argutiâ &amp; ſuavi<g ref="char:EOLhyphen"/>tate recitantem, non ingratè exaudive<g ref="char:EOLhyphen"/>ram; obtuſas nimis &amp; langueſcentes noſtras facultates novus refocillavit ca<g ref="char:EOLhyphen"/>lor;
+<pb facs="tcp:121283:5"/> Nova mihi &amp; inſolitae magnitudi<g ref="char:EOLhyphen"/>nis ſtella, ubi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> clariores immittens ra<g ref="char:EOLhyphen"/>dios, non ſine admiratione affulſit: &amp; hinc cupidiſſimus magnale hoc viſendi factus, oculo illud fatigatiſſimo, parùm tamen perſpicaci, avidiſſimè quaeſivi. Et ſic tandem divina eminentiſſimi Sar<g ref="char:EOLhyphen"/>bievii poëmata pauca, nimis tritâ exi<g ref="char:EOLhyphen"/>guitatis meae jam veſte induta, ad te, a quo, &amp; Authorem &amp; famam Elogiis abundè non immeritò ornatam accepi, devolvi geſtiunt. Onus humeris maxi<g ref="char:EOLhyphen"/>mè impar noſtris, me ſuſcepiſſe, ne<g ref="char:EOLhyphen"/>mine ſaltem caliginoſis &amp; excaecatis penè mentis noſtrae ocellis, facem, quò penitius inſpiciatur jam praeferente, non poſſum diffiteri: Non tamen actum a<g ref="char:EOLhyphen"/>go, fed intactum &amp; illibatum tibi ob<g ref="char:EOLhyphen"/>tuli <hi>Caſimirum</hi> cujus verba omnia divinae poëſios igne undequa<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> reſerta, rudi conaminis mei chalybe cùm leviter
+<pb facs="tcp:121283:5"/> tetigi, ſcintillae hae (citò, niſi favoris tui Zephyro placide foveantur moriturae) tibi emicuerunt. Aequi igitur conſule, &amp; accipe quae tibi offero, animo quo Dedicavi; ſi quid huc uſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> inverſi in<g ref="char:EOLhyphen"/>gruerit. Nunquam te non propitium expertus ſum; &amp; eâdem jam cinctus confidentiâ exui calamo frontem, &amp; pu<g ref="char:EOLhyphen"/>dorem poſui. Si hoc quod jam praeſtiti, pignus animi mei gratitudinis, exile ti<g ref="char:EOLhyphen"/>bi arrideat; Metam, ad quam collima<g ref="char:EOLhyphen"/>vi, aſſecutus, nil ultrà moror quam ut me tibi ſemper officiociſſime praebe<g ref="char:EOLhyphen"/>rem,</p>
+            <closer>
+               <signed>Devotiſſ: Devinctiſſ: G. HILS.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="to_the_reader">
+            <pb facs="tcp:121283:6"/>
+            <pb facs="tcp:121283:6"/>
+            <head>Candido Lectori.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Um me opuſculum hoc aggreſſurum non attraxit affectat a ambitio; ſed otii ſo<g ref="char:EOLhyphen"/>lius taedium devorandi deſiderium: Non Ancipitem <hi>Janum,</hi> contra Ace<g ref="char:EOLhyphen"/>phalos, &amp; ſine fronte ſuperbos, in ipſo limine janitorem, nec Tricephalum Cer<g ref="char:EOLhyphen"/>berum contra multorum capitum belluam, bifronti huic libellulo acerrimum invocabo oppugnatorem. Te ſolum (candide lector) (ut Antiqui, aliquem è gentium diis) contra Moloſſos omnes malitioſe delatrantes, Jovem noſtrum Statorem poſui, Apagè mancos iſtos &amp; mutilatos judices, qui non tam poëma, quàm ejus vitia inſectantur. Apage facundos illos contumelia<g ref="char:EOLhyphen"/>rum creatores! Tibi me advolve, in te ſecurus per<g ref="char:EOLhyphen"/>manebit animus, &amp; malis indignè non ſuccumbet. Non magna do, non perfecta, non polita, ſed rudia &amp; incocta, quae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tui pumicem repoſcunt. Ut tenuitati igitur meae ſuccurras obſecro; ſi enim in opere jucundo &amp; utili, eſt aliquid aliquò uſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> prodire, Candidos ar<g ref="char:EOLhyphen"/>bitror &amp; ingenuos, inceptum hoc meum, non vitio
+<pb facs="tcp:121283:7"/> prorſus daturos. Malè conſultoru<g ref="char:cmbAbbrStroke">̄</g> hominu<g ref="char:cmbAbbrStroke">̄</g> ingenia ad detrahendu<g ref="char:cmbAbbrStroke">̄</g> proclivia, non ſic moror; exil<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tatem meam agnoſco, tantam enim in opere hoc ubique profundita<g ref="char:EOLhyphen"/>tem expertus, ut non cujuſvis eſt (minime mei, qui inter eos qui divine poëſcos amoris flammulis fervent, ſum poſtremus) ad <hi>Caſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er</hi> penetrare Adyta. Aucto<g ref="char:EOLhyphen"/>ritate tuâ nobis opus eſt <hi>Far<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bi,</hi> qui miſeris nobis, Naufragium arduos contra Authorum ſcopulos factu<g ref="char:EOLhyphen"/>ris, miſericordem temet praebere Tiphim non dedig<g ref="char:EOLhyphen"/>naris; ſed calamum coërceo. Tuo praeſidio tutus tuam (ſi quid mali adverſatur) manum implore auxiliatri<g ref="char:EOLhyphen"/>cem; quae me ingenii (uti Aeneas patrem dexteritate virium) è mediâ incolumem eripi at flammâ. Vale.</p>
+            <closer>
+               <signed>G.H.</signed>
+            </closer>
+         </div>
+         <div xml:lang="eng" type="to_the_reader">
+            <pb facs="tcp:121283:7"/>
+            <head>To the Cenſuring Reader.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Word or two to thee, and I have done; and in Engliſh, for it may be, 'tis that which makes thee a reader. I know thou wilt ſtart up Critick, if not Cynick; and therefore to prevent thee, I thus Apologize for my ſelfe to thoſe of better judgement and af<g ref="char:EOLhyphen"/>fection. I confeſſe I have not been ſo preciſe<g ref="char:EOLhyphen"/>ly carefull in every Ode, as to render line for line (a thing ſo ſtrictly ſtood upon by ſome late tranſlators) for indeed the exuberant tor<g ref="char:EOLhyphen"/>rent of Elegancie, came ſo faſt upon me, that I was forced to make my banks larger; choo<g ref="char:EOLhyphen"/>ſing rather to make my fault in the exceſſe, then defect. I ingenuouſly acknowledge that I am not worthy to blow a coale of that divine fire, which ſpreads ſuch glorious flames through every Ode; and indeed (if it were poſſi<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:121283:8"/> to expect any mercy from thee) thou migh<g ref="char:EOLhyphen"/>teſt excuſe me in this bold attempt; for I want thoſe true <hi>Promethean</hi> helps, that heretofore fetch'd downe this fire, and dealt it freely a<g ref="char:EOLhyphen"/>mongſt us; Thoſe courteous ſons of <hi>Maja,</hi> that with their powerfull rods could breake the barrs, and eaſily uncharme the knottieſt Authours. Well, if thou takeſt no pleaſure in reading, I did profit in writing, and I had rather, of the two, that thou ſhouldeſt be idle. The young <hi>Thing</hi> was ne're intended for the Preſſe, but the violence of ſome friends ra<g ref="char:EOLhyphen"/>viſh'd her from me, in her virgin bloome, and now ſhee's growne common: uſe her and me as courteouſly as thou canſt, however I bid thee fare-well.</p>
+            <closer>
+               <signed>G. H.</signed>
+            </closer>
+         </div>
+         <div xml:lang="eng" type="poem">
+            <pb facs="tcp:121283:8"/>
+            <head>Ad Sarbievii Caſimiri <hi>Lyram.</hi>
+            </head>
+            <l>WHo's this divided Nature joynes ſo ſoone</l>
+            <l>By a new ſtraine of quaint diviſion?</l>
+            <l>The Lyon courts the Liberd, and the Lamb</l>
+            <l>Hangs on the neck o' th' rugged Wolfe made tame!</l>
+            <l>What <hi>Orpheus</hi> moves the ſeven proud hils with 's ſtrain?</l>
+            <l>What Charmer mounts the Dolphin's back again?</l>
+            <l>That makes the waves of <hi>Tyber</hi> dancing goe?</l>
+            <l>And without meaſure, all in meaſure flow?</l>
+            <l>If neither <hi>Flaccus,</hi> Thine, nor <hi>Pindars</hi> Lyre</l>
+            <l>Can worke this change; It muſt be <hi>Caſimire!</hi>
+            </l>
+            <l>Giant of wit! that with thy numbers even</l>
+            <l>Aſſault'ſt the ſtarry Orb, and conquer'ſt heaven!</l>
+            <l>The God of warre when thy tun'd Harp doth move,</l>
+            <l>Neglects his owne, fights for thy holy love.</l>
+            <l>
+               <hi>Apollo,</hi> off, his Majeſty doth throw,</l>
+            <l>And courts againe his <hi>Daphne</hi> in thy brow:</l>
+            <l>Where ſhe out-ſhines her ſelfe, more freſh and gay</l>
+            <l>Then when before ſhee faintly ran away.</l>
+            <l>
+               <hi>Pallas,</hi> her <hi>Gorgon</hi> layd aſide, diſcloſes</l>
+            <l>Her pride, in thy ſweet Violets and Roſes.</l>
+            <l>
+               <hi>Juno</hi> and <hi>Venus</hi> uſher'd by chaſt love</l>
+            <l>Through <hi>Ceres</hi> Tilths, and <hi>Flora</hi>'s banks, here move</l>
+            <l>
+               <hi>Phoebus</hi>'s three <hi>Graces,</hi> and his Daughters nine</l>
+            <l>A Galliard dance, by turnes, in every line.</l>
+            <l>The ſoule of Poeſie moves with ſubtile Art</l>
+            <l>Wholly i' th' whole; wholly, in every part.</l>
+            <l>
+               <hi>—Triumphat</hi>
+            </l>
+            <l>
+               <hi>Sarbinius meliore lauru,</hi>
+            </l>
+            <closer>
+               <signed>J.H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="ode">
+            <pb n="2" facs="tcp:121283:9"/>
+            <head>
+               <hi>Od.</hi> 1. <hi>Lib.</hi> 1. Cum infeſtae Thracum Co<g ref="char:EOLhyphen"/>piae Pannoniâ exceſſiſſent.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">J</seg>Am minae ſaevi cecidere belli:</l>
+               <l>Jam profanatis malè pulſa terris</l>
+               <l>Et ſalus, &amp; pax niveis reviſit</l>
+               <l>Oppida bigis:</l>
+            </lg>
+            <lg>
+               <l>Iam fides, &amp; fas, &amp; amaena praeter</l>
+               <l>Fauſtitas, laeto volat arva curru:</l>
+               <l>Iam fluunt paſſim pretioſa largis</l>
+               <l>Saecula rivis.</l>
+            </lg>
+            <lg>
+               <l>Candidi ſoles veteriſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> venae</l>
+               <l>Fontibus nati revocantur Anni:</l>
+               <l>Grandinat Gemmis, riguo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Coelum</l>
+               <l>Depluit Auro.</l>
+            </lg>
+            <lg>
+               <l>Me<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> veraci ceciniſſe plectro</l>
+               <l>Inter Octobreis, tua feſta, pompas,</l>
+               <pb n="4" facs="tcp:121283:10"/>
+               <l>Priſca <hi>Saturni</hi> rediiſſe ſaecla,</l>
+               <l>Approbat Orbis.</l>
+            </lg>
+            <lg>
+               <l>Aurei patrum nivei<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mores,</l>
+               <l>Exul, &amp; ſerâ procul uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Thule,</l>
+               <l>Candor, &amp; pulchro remeare virtus</l>
+               <l>Audet <hi>Olympo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Lactis, &amp; fuſi per aprica mellis</l>
+               <l>Garruli Campos ſecuêre rivi:</l>
+               <l>Et ſuperfuſo tumuêre plenae</l>
+               <l>Nectare ripae.</l>
+            </lg>
+            <lg>
+               <l>Laetior vulgò ſeges inquietis</l>
+               <l>Fluctuat culmis, titubant<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> frugum</l>
+               <l>Uberes Campi, nec avara ſulcis</l>
+               <l>Invidet aeſtas.</l>
+            </lg>
+            <lg>
+               <l>Paſtor Erranteis comitatus Hoedos</l>
+               <l>Provocat raucas calamo cicadas:</l>
+               <l>Mugiunt Colles, &amp; anhela feſſis</l>
+               <l>Silva Iuvencis.</l>
+            </lg>
+            <lg>
+               <l>Pace ſubſultant juga, pace ridem</l>
+               <l>Tetricae rupes: leve ſeparatos</l>
+               <pb n="6" facs="tcp:121283:11"/>
+               <l>Otium colleis amat, &amp; ſequeſtri</l>
+               <l>Gaudia pagi.</l>
+            </lg>
+            <lg>
+               <l>Te <hi>Ceres</hi> flavis redimita culmis,</l>
+               <l>Magne pacati moderator orbis,</l>
+               <l>Te ſuis Aeſtas opulentae Circum<g ref="char:EOLhyphen"/>fundit ariſtis.</l>
+            </lg>
+            <lg>
+               <l>Supplici Myrtus tibi ſervit umbrâ,</l>
+               <l>Serviunt Lauri: tibi celſa longè</l>
+               <l>Quercus aſſurgit, tremulo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pinus</l>
+               <l>Vertice nutat.</l>
+            </lg>
+            <lg>
+               <l>Siderum praeſes, dominuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> terrae,</l>
+               <l>Lucidâ Romam ſpeculatus arce,</l>
+               <l>Regna tranquillet, Cupido<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> patrom</l>
+               <l>Te velit orbi.</l>
+            </lg>
+            <lg>
+               <l>Laurus annoſum tibi ſignet <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>vum:</l>
+               <l>Fata te norint, properentque parcae</l>
+               <l>Neſcium carpi tibi deſtinatos</l>
+               <l>Stamen in annos.</l>
+            </lg>
+            <lg>
+               <l>Quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> formoſos ſedet inter igneis,</l>
+               <l>Sedulam pro te miſerata Romam</l>
+               <pb n="8" facs="tcp:121283:12"/>
+               <l>Virgo, quam circum glomerantur albis</l>
+               <l>Aſtra choreis.</l>
+            </lg>
+            <lg>
+               <l>Curet effuſas Latii querelas,</l>
+               <l>Virginum caſtas juvenumque voces</l>
+               <l>Curet, &amp; votis procerum reclinem accommodet aurem.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>Ad Aurelium Lycum. <hi>Ode</hi> 2. <hi>Lib.</hi> 1. Nê plus aequo de adverſâ fortunâ queratur.</head>
+            <l>INdignas, <hi>Lyce,</hi> naenias,</l>
+            <l>Et maeſtum gemitu pectus, &amp; hiſpidis</l>
+            <l>Frontem nubibus expedi,</l>
+            <l>Cum Sol non ſolito lumine riſerit,</l>
+            <l>Et fortuna volubilis</l>
+            <l>Fati difficilem jecerit aleam.</l>
+            <l>Quod vexant hodie Noti,</l>
+            <l>Cras lambent hilares aequor Aeteſiae.</l>
+            <pb n="10" facs="tcp:121283:13"/>
+            <l>Moeſtum ſol hodiè caput,</l>
+            <l>Cras laetum roſeo promet ab aequore.</l>
+            <l>Alterno redeunt choro</l>
+            <l>Riſus &amp; gemitus, &amp; madidis propè</l>
+            <l>Sicci cum Lacrymis joci.</l>
+            <l>Naſcuntur mediis gaudia luctibus,</l>
+            <l>Sic fatis placitum ſuis</l>
+            <l>Tempeſtiva ftuunt fata periculis.</l>
+            <l>
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſos duxit heri boves,</l>
+            <l>Dat magnis hodiè jura Quiritibus:</l>
+            <l>Et quae bobus ademerat,</l>
+            <l>Imponit Gabiis, &amp; Curibus juga.</l>
+            <l>Idem Phoſphorus aſpicit</l>
+            <l>Magnum, quem tenuem viderat Heſperus.</l>
+            <l>Quod ſi ſeria ludicris</l>
+            <l>Fortunae placeat texere; Ruſticus</l>
+            <l>Heſternam repetet caſam,</l>
+            <l>Ridentis populi non humilis jocus:</l>
+            <l>It queis rexerat omnia,</l>
+            <l>Findet laurigeris ligna ſecuribus.</l>
+            <pb n="12" facs="tcp:121283:14"/>
+            <l>Quod ſi defuerit ſalix</l>
+            <l>Faſces pauperibus ſubjiciet focis.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad</hi> Tarquinium Lavinum. Od. 13. lib. 1.</head>
+            <l>NOn ſi Sol ſemel occidit,</l>
+            <l>Non rubris iterum ſurget ad Indiis;</l>
+            <l>Nee ſi quos celeris rotae</l>
+            <l>Sors non exiguo proruit impetu,</l>
+            <l>Non lapſos iterum levet,</l>
+            <l>Arguto docilis ludere cum joco.</l>
+            <l>Ne ſpem projice, <hi>Tarquini:</hi>
+            </l>
+            <l>Cujus paenè retro lambere pulverem</l>
+            <l>Et veſtigia diceris,</l>
+            <l>Cum fortuna levem verterit orbitam;</l>
+            <l>Effuſam ſuper &amp; luto</l>
+            <l>Fumantem poteris cernere purpuram.</l>
+            <l>Tune &amp; riſibus abſtine,</l>
+            <l>Neu turpi domino Lumina paveris:</l>
+            <l>Neu calces nimium, memor</l>
+            <l>Fortunae geminam ſaepe jaci pilam.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="14" facs="tcp:121283:15"/>
+            <head>Ad <hi>Publium Memmium. Ode</hi> 2. <hi>Lib.</hi> 2. Vitae humanae brevitatem benefactis extendendam eſſe.</head>
+            <l>QUae tegit Canas modò bruma valleis,</l>
+            <l>Sole vicinos jaculante monteis</l>
+            <l>Deteget rurſum. Tibi cum nivoſae</l>
+            <l>Bruma ſenectae</l>
+            <l>In caput ſeris cecidit pruinis,</l>
+            <l>Decidet nunquam. Cita fugit Aeſtas,</l>
+            <l>Fugit Autumnus, fugient propinqui</l>
+            <l>Tempora veris:</l>
+            <l>At tibi frigus, capiti<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> cani</l>
+            <l>Semper haerebunt, ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> multa Nardus</l>
+            <l>Nec parum gratum repetita dement</l>
+            <l>Serta colorem.</l>
+            <l>Una quem nobis dederat juventus:</l>
+            <l>Una te nobis rapiet ſenectus:</l>
+            <pb n="16" facs="tcp:121283:16"/>
+            <l>Sed potes, <hi>Publi,</hi> geminare magnâ</l>
+            <l>Saecula famâ.</l>
+            <l>Quem ſui raptum gemuêre cives,</l>
+            <l>Hic diu vixit. Sibi quiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> famam</l>
+            <l>Scribat Haeredem: rapiunt avarae</l>
+            <l>Cetera Lunae.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>E Rebus Humanis Exceſſus. <hi>Ode</hi> 5. <hi>Lib.</hi> 2.</head>
+            <l>HUmana linquo: tollite praepetem</l>
+            <l>Nubeſque ventique. Ut mihi devii</l>
+            <l>Montes reſedere, &amp; volanti</l>
+            <l>Regna porcul, populoſque vaſtos</l>
+            <l>Subegit aer! jam radiantia</l>
+            <l>Delubra Divum, jam mihi regiae</l>
+            <l>Turres receſſere, &amp; relictae in</l>
+            <l>Exiguum tenuantur urbes;</l>
+            <l>Totaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> quaſe cunque ferunt vagae</l>
+            <l>Deſpecto Gentes. O lacrymabilis</l>
+            <pb n="18" facs="tcp:121283:17"/>
+            <l>Jncerta fortunae! ô fluentûm</l>
+            <l>Principia, interit úſque rerum!</l>
+            <l>Hîc ducta primis oppida moenibus</l>
+            <l>Minantur in Coelum: hîc veteres ruunt</l>
+            <l>Murique turreſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>: hic ſupinas</l>
+            <l>Paenè cinis ſepelivit arces.</l>
+            <l>Hîc mite Coelum; ſed rapidae ruunt</l>
+            <l>In Bella Gentes: hîc placida ſedent</l>
+            <l>In pace, ſed latè quietos</l>
+            <l>Dira lues populatur agros.</l>
+            <l>Hîc paenè tellus tota micantibus</l>
+            <l>Ardet ſub armis: ſtant acies adhuc</l>
+            <l>Pendente fatorum ſub ictu,</l>
+            <l>Et dubio furor haeſitavit</l>
+            <l>In bella paſſu: parte aliâ recens</l>
+            <l>Jam miſta Mavors agmina mutuam</l>
+            <l>Colliſit in mortem, &amp; Cadentûm</l>
+            <l>Caede virûm, Cumuliſque latos</l>
+            <l>Inſternit agros: hîc Mareoticae</l>
+            <l>Secura merces aequora navigant,</l>
+            <pb n="20" facs="tcp:121283:18"/>
+            <l>Portuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> certatim frequentes</l>
+            <l>Centum operis populiſque fervent.</l>
+            <l>Nec una Marti cauſa, nec unius</l>
+            <l>Sunt Arma moris. Bellat Adulterae</l>
+            <l>Ridentis è vultu voluptas,</l>
+            <l>In<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> 
+               <hi>Helena</hi> procus ardet orbis.</l>
+            <l>Hic verba bellis vindicat: hic canis,</l>
+            <l>Heu vile furtum! Se mala comparant;</l>
+            <l>Rarum ſub exemplo ſuperbit,</l>
+            <l>Nec ſceleris ſcelus inſtar omne eſt.</l>
+            <l>Eous illinc belligerâ latet</l>
+            <l>Sub Claſſe pontus: Jam <hi>Thetis</hi> aeneá</l>
+            <l>Mugire flammarum procellâ, &amp;</l>
+            <l>Attonitae trepidare cautes,</l>
+            <l>Et ipſa circum littora percuti</l>
+            <l>Majore fluctu. Siſtite barbari,</l>
+            <l>Ferro<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>, neu ſimplex, &amp; igni, &amp;</l>
+            <l>Naufragio geminate fatum.</l>
+            <l>Parumnè Te llus in miſeras patet</l>
+            <l>Immenſa mortes? hinc miſerabili</l>
+            <pb n="22" facs="tcp:121283:19"/>
+            <l>Quaſſata terrarum tumultu</l>
+            <l>Stare pavent titubant<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> regna,</l>
+            <l>Unâ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tandem funditus obruunt</l>
+            <l>Cives ruinâ. Stat tacitus cinis,</l>
+            <l>Cui ſerus inſcribat viator:</l>
+            <l>
+               <hi>Cum populo jacet hic &amp; ipſo</hi>
+            </l>
+            <l>
+               <hi>Cum Rege Regnu<g ref="char:cmbAbbrStroke">̄</g>.</hi> Quid memorem ſuper-</l>
+            <l>Infuſatotis aequora portubus</l>
+            <l>Urbes inundare, &amp; repenti</l>
+            <l>Tecta Deûm ſonuiſſe fluctu.</l>
+            <l>Regum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Turres, &amp; pelago Caſas</l>
+            <l>Jam jam latentes? jam video procul</l>
+            <l>Merceiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> differri, &amp; natantem</l>
+            <l>Oceano fluitare gazam.</l>
+            <l>Alterna rerum militat efficax</l>
+            <l>In damna mundus. Cladibus inſtruit</l>
+            <l>Belliſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> rixiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> &amp; ruinis</l>
+            <l>Sanguine am libitina ſcenam,</l>
+            <l>Suprema donec ſtelligerum dies</l>
+            <l>Claudat Theatrum. Quid morer hactenus</l>
+            <pb n="24" facs="tcp:121283:20"/>
+            <l>Viator aurarum &amp; ſerenas</l>
+            <l>Sole domos aditurus uſque</l>
+            <l>Humana mirer? tollite praepetem</l>
+            <l>Feſtina vatem, tollite nubila</l>
+            <l>Qua ſolis &amp; Lunae Labores</l>
+            <l>Caeruleo vehit aethra Campo.</l>
+            <l>Ludor? ſequaces aut ſubeunt latus</l>
+            <l>Ferunt<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> venti? Jamque iterum mihi</l>
+            <l>Et regna decrevere, &amp; immenſae</l>
+            <l>Ante oculos periêre gentes;</l>
+            <l>Suóque ſemper terra minor Globo</l>
+            <l>Jam jamque cerni difficilis, ſuum</l>
+            <l>Vaneſcit in punctum? ô refuſum</l>
+            <l>Numinis Oceanum! ô carentem</l>
+            <l>Mortalitatis portubus inſulam!</l>
+            <l>O clauſa nullis marginibus freta!</l>
+            <l>Haurite anhelantem, &amp; perenni</l>
+            <l>
+               <hi>Sarbivium</hi> glomerate fluctu.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="26" facs="tcp:121283:21"/>
+            <head>Ad Publium Memmium. Od. 7. Lib. 2.</head>
+            <lg>
+               <l>ESſet humanis aliquod levamen</l>
+               <l>Cladibus, ſi res caderent eâdem</l>
+               <l>Quâ morâ ſurgunt; ſed humant repentes</l>
+               <l>Alta ruinae.</l>
+            </lg>
+            <lg>
+               <l>Nil diu felix ſtetit; inquieta</l>
+               <l>Urbium currunt hominum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Fata:</l>
+               <l>Tot<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vix horis jacuêre, ſurgunt</l>
+               <l>Regna quot annis.</l>
+            </lg>
+            <lg>
+               <l>Caſibus longum dedit ille tempus,</l>
+               <l>Qui diem regnis ſatis eruendis</l>
+               <l>Dixit: elato populos habent mo<g ref="char:EOLhyphen"/>menta ſub ictu.</l>
+            </lg>
+            <lg>
+               <l>Parce crudeles, moriture <hi>Publi,</hi>
+               </l>
+               <l>Impio divos onerare queſtu,</l>
+               <l>Denſa vicinis nimiùm vagari</l>
+               <l>Funeratectis.</l>
+            </lg>
+            <lg>
+               <pb n="28" facs="tcp:121283:22"/>
+               <l>Quae tibi primùm dedit hora naſci,</l>
+               <l>Haec mori primùm dedit. Ille longùm</l>
+               <l>Vixit, aeternum ſibi qui merendo</l>
+               <l>Vindicat aevum.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>Ad Aſterium. Ode 8. lib 2.</head>
+            <lg>
+               <l>AT nos inani paſcit imagine</l>
+               <l>Fortuna rerum, Ludimur <hi>Aſteri,</hi>
+               </l>
+               <l>Umbris amicorum; &amp; doloſo</l>
+               <l>Verba ſimul placuêre fuco,</l>
+            </lg>
+            <lg>
+               <l>Res eſſe ſtulti credimus. at ſimul</l>
+               <l>Sors infidelem corripuit rotam,</l>
+               <l>Gaudent recedenti Sodales</l>
+               <l>Non eadem dare verba Divae.</l>
+            </lg>
+            <lg>
+               <l>Plerum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> falſis nominibus placent</l>
+               <l>Humana. Rari pollicitis data</l>
+               <l>Aequamus: &amp; minor loquaci</l>
+            </lg>
+            <lg>
+               <l>Relligio ſolet eſſe vot<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="30" facs="tcp:121283:23"/>
+            <head>Ex ſacro Salomonis Epithal. Ode 19. l. 2. Similis eſt dilectus meus capreae, hinnuloque cervorum.</head>
+            <lg>
+               <l>Vltas ſollicitae me ſimilis caprae,</l>
+               <l>Quam vel nimbiſoni ſibilus Africi,</l>
+               <l>Vel motum ſubitis murmur Eteſiis</l>
+               <l>Vano corripit impetu.</l>
+            </lg>
+            <lg>
+               <l>Nam ſeu prima metum bruma trementibus</l>
+               <l>Incuſſit foliis, ſive Dieſpiter</l>
+               <l>Eliſit reſonis tela Cerauniis,</l>
+            </lg>
+            <lg>
+               <l>Incertâ trepidat fugâ.</l>
+               <l>Atqui non ego te quaerere deſinam,</l>
+               <l>Clamatura retrò, <hi>Chriſte,</hi> Revertere: &amp;</l>
+               <l>Rurſus, cùm rapido fugeris impetu,</l>
+            </lg>
+            <lg>
+               <l>Clamatura, Revertere.</l>
+               <l>O ſeu te Libani terga virentiae,</l>
+               <l>Seu formoſa rubrae culta Bethuliae,</l>
+               <pb n="32" facs="tcp:121283:24"/>
+               <l>Seu pinguis Solymae, ſive procul cavae</l>
+            </lg>
+            <lg>
+               <l>Cingunt rura Capharniae;</l>
+               <l>Tandem ſollicitae pone modum fugae.</l>
+               <l>Nam non effugies, Te mihi ſedulis</l>
+               <l>Aether excubiis prodet, &amp; aureis</l>
+            </lg>
+            <lg>
+               <l>Prodet Cynthia cornibus.</l>
+               <l>Te neglecta gemunt littora, te procul</l>
+               <l>Suſpirat tacitis aura Favoniis,</l>
+               <l>Te noctis vigiles, te mihi vividis</l>
+               <l>Signant ſidera nutibus.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>Dirae in Herodem. Ode 24. l. 2.</head>
+            <lg>
+               <l>DEvota ſacrae progenies domus!</l>
+               <l>Fatale monſtrum! prodigialium</l>
+               <l>Monſtrum parentum! ſeu Libyſſae</l>
+            </lg>
+            <lg>
+               <l>Marmaricis lea pavit antris,</l>
+               <l>Seu te maligno ſidere degener</l>
+               <l>Pardus maritâ tigride prodidit,</l>
+               <pb n="34" facs="tcp:121283:25"/>
+               <l>Furoris haredem paterni;</l>
+            </lg>
+            <lg>
+               <l>Sive gregis populator Afri</l>
+               <l>Nudum ſub alto deſtituit jugo;</l>
+               <l>Seu belluoſis fluctibus exſpuit</l>
+               <l>Irata tempeſtas nocentem</l>
+            </lg>
+            <lg>
+               <l>Alitibuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> feriſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> praedam;</l>
+               <l>Tuo ſeveras pectore marmora</l>
+               <l>Duxêre venas, marmora rupibus</l>
+               <l>Deciſa, quas Gaetula caelebs</l>
+            </lg>
+            <lg>
+               <l>Deucalio ſuper arva iecit:</l>
+               <l>Te ſede primum lividaregiâ</l>
+               <l>Megaera fixit: Tiſiphone dedit</l>
+               <l>Sceptrum cruentandum ferae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+            </lg>
+            <lg>
+               <l>Impoſuit Diadema fronti; &amp;</l>
+               <l>Regale nuper cum premeres ebur</l>
+               <l>Adſedit altis fulta curulibus,</l>
+               <l>Et per Palaeſtinos Tyrannis</l>
+            </lg>
+            <lg>
+               <l>Explicuit ſua ſigna campos.</l>
+               <l>Tremenſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; atrum ſanguine â manu</l>
+               <l>Telum coruſcans ſecum Odia, &amp; Minas,</l>
+               <pb n="36" facs="tcp:121283:26"/>
+               <l>Caedemque &amp; inſanostumultus,</l>
+            </lg>
+            <lg>
+               <l>Funera<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; populorum iniquas</l>
+               <l>Strages, &amp; indignum excidium retrò</l>
+               <l>Lactantis aevi traxit, &amp; inclyta</l>
+               <l>Regnorum, inexhauſtaſque longis</l>
+            </lg>
+            <lg>
+               <l>Cladibus evacuavit urbies.</l>
+               <l>Illam &amp; parentum dira gementium</l>
+               <l>Lamenta, Queſtuſque, &amp; Gemitus retrò,</l>
+               <l>Luctuſque vicatim ſecuti, &amp;</l>
+            </lg>
+            <lg>
+               <l>Irriguis Lacrymae catervis.</l>
+               <l>Quòd ſi caducis decidit amnibus</l>
+               <l>Praeſagus imber, quid pluvias ſequi</l>
+               <l>Cunctantur ultrices procellae,</l>
+            </lg>
+            <lg>
+               <l>Et volucrum ſtrepitu quadrigarum</l>
+               <l>Incuſſus aether pigra tonitrua &amp;</l>
+               <l>Immugientûm fulmina nubium</l>
+               <l>Compeſcit, indulgentque metae</l>
+            </lg>
+            <lg>
+               <l>Aëriis vaga tela pennis?</l>
+               <l>At nil triſulcis Acroceraunia</l>
+               <l>Dejecta flammis, nil Rhodopes jugum,</l>
+               <pb n="38" facs="tcp:121283:27"/>
+               <l>Quaſſaeve peccavêre Cautes</l>
+            </lg>
+            <lg>
+               <l>Aemathiae, niſi fortè dirum</l>
+               <l>Inominatis marmora partubus</l>
+               <l>Fudêre monſtrum: rumpite, rumpite</l>
+               <l>Monteiſque, faecundaſque Regum</l>
+            </lg>
+            <lg>
+               <l>Fulmina praecipitate rupeis.</l>
+               <l>Exſpiret auras; occidat, occidat</l>
+               <l>Funeſtus, execrabilis, efferus</l>
+               <l>Sector; crematuramque taxum</l>
+            </lg>
+            <lg>
+               <l>Ipſe ſuper cumulumque regni</l>
+               <l>Summum cadaver fumet, &amp; aëra</l>
+               <l>Caelumque diro liberet halitu</l>
+               <l>Fatale monſtrum, diſſidentûm</l>
+            </lg>
+            <lg>
+               <l>Ludibrium Furiarum, &amp; Orci.</l>
+               <l>Perrumpe tractus impenetrabileis</l>
+               <l>Ignava tellus, deſuper arduâ</l>
+               <l>Volvente ſaxorum ruinâ:</l>
+            </lg>
+            <lg>
+               <l>Quam pelagus ſuper, &amp; refuſis</l>
+               <l>Bis terque Nereus Syrtibus inſonet.</l>
+               <l>Audimur. Ingens ſidera verberat,</l>
+               <l>Spumamque, limumque, &amp; rapaceis</l>
+            </lg>
+            <lg>
+               <l>Oceanus glomeravit undas:</l>
+               <l>Jam nutat aether, jam barathrum propè,</l>
+               <l>Vaſtiſque campi diſſidiis hiant:</l>
+               <l>Jam fractus illabetur orbis</l>
+            </lg>
+            <lg>
+               <l>Sacrilego capiti, i, profunda</l>
+               <pb n="40" facs="tcp:121283:28"/>
+               <l>Inexpiato pollue Tartara</l>
+               <l>Tyranne leto: ſolus &amp; igneum</l>
+               <l>Inſume Cocytum, &amp; frementem</l>
+               <l>Sulphureis Acheronta ripis.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>Ex ſacro Salomonis Epithalamio.</head>
+            <epigraph>
+               <q>
+                  <l>Fulcite me floribus, &amp;c.</l>
+                  <l>Adiuro vos, filiae Jeruſalem, ne ſuſci<g ref="char:EOLhyphen"/>tetis, &amp;c.</l>
+                  <l>Ecce iſte venit, ſaliens in montibus, tranſiliens colles. &amp;c.</l>
+                  <bibl>ODE 25. LIB 2.</bibl>
+               </q>
+            </epigraph>
+            <l>ME ſtipate roſariis,</l>
+            <l>Me fulcite crocis, me violariis,</l>
+            <l>Me vallate Cydoniis,</l>
+            <l>Me canis, ſociae, ſpargite liliis:</l>
+            <l>Nam viſi mora Numinis</l>
+            <l>Mî ſacris animam torret in ignibus.</l>
+            <l>Vos ô, vos ego filiae</l>
+            <l>Caeleſtis Solymae; vos Galaditides,</l>
+            <pb n="42" facs="tcp:121283:29"/>
+            <l>Vos ô per capreas ego</l>
+            <l>Erranteſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> jugis hinnuleos precor,</l>
+            <l>Antiqui genus Iſaci,</l>
+            <l>Quae ſaltus Libani, quae viridem vago</l>
+            <l>Carmelum pede viſitis,</l>
+            <l>Nymphae nobilium gloria montium:</l>
+            <l>Ne vexate tenacibus</l>
+            <l>Acclinem violis: neu ſtrepitu pedum,</l>
+            <l>Neu plauſae ſonitu manus</l>
+            <l>Pacem ſolliciti rumpite ſomnii:</l>
+            <l>Donec ſponſa ſuo leves</l>
+            <l>Somnos ex oculis pollice terſerit:</l>
+            <l>Donec Lucicer aureus</l>
+            <l>Rerum paciferum ruperit otium.</l>
+            <l>Summis ecce venit jugis</l>
+            <l>Formoſae ſoboles matris, &amp; unica</l>
+            <l>Formoſi ſobeles patris:</l>
+            <l>Silvarum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſuper colla comantnium,</l>
+            <l>Et intonſum Libani caput,</l>
+            <l>Magnorum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſalit terga cacumium ac</l>
+            <pb n="44" facs="tcp:121283:30"/>
+            <l>Proceras nemorum domos</l>
+            <l>Prono tranſiliens praeterit impetu:</l>
+            <l>Veloci ſimilis caprae</l>
+            <l>Quae viſis humili in valle leonibus,</l>
+            <l>Per praerupta, per ardua</l>
+            <l>Sublimi volucris fertur anhelitu.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>Ad Egnatium Nollium. Aequo ſemper recto<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> animo, adverſus fortunae inconſtantiam ſtandum eſſe. <hi>Ode</hi> 4. <hi>Lib.</hi> 3.</head>
+            <l>SIve te molli vehet aura vento,</l>
+            <l>Sive non planis agitabit undis,</l>
+            <l>Vince Fortunam, dubiaſque <hi>Nolli,</hi>
+            </l>
+            <l>Lude per artes.</l>
+            <l>Riſerit? vultum generoſus aufer.</l>
+            <l>Fleverit? dulci refer or a riſu:</l>
+            <l>Solus, &amp; ſemper tuus eſſe quovis</l>
+            <l>Diſce tumultu.</l>
+            <pb n="46" facs="tcp:121283:31"/>
+            <l>Ipſe te clauſus modereris urbem</l>
+            <l>Conſul aut Caeſar; quoties minantûm</l>
+            <l>Turba fatorum quatient ſerenam</l>
+            <l>Pectoris arcem.</l>
+            <l>Cum leves viſent tua tecta caſus,</l>
+            <l>Laetus occurres: praeunte luctu</l>
+            <l>Fauſtitas &amp; pax ſubeunt eoſdem</l>
+            <l>Saepe Penates.</l>
+            <l>Dextra ſors omnis gerit hoc ſiniſtrum,</l>
+            <l>Quòd facit molleis: habet hoc ſiniſtra</l>
+            <l>Proſperum, quem nunc ferit, imminenteis</l>
+            <l>Durat in ictus.</l>
+            <l>Ille qui longus fuit, eſſe magnus</l>
+            <l>Deſinit moeror, facilem ferendo</l>
+            <l>Finge Fortunam; levis eſſe longo</l>
+            <l>Diſcit ab uſu.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="48" facs="tcp:121283:32"/>
+            <head>Ad Marcum Silicernium. Veras eſſe divitias, quae à bonis ani<g ref="char:EOLhyphen"/>mi petuntur. <hi>Ode</hi> 6. <hi>Lib.</hi> 3.</head>
+            <l>NUnquam praecipiti credulus aleae</l>
+            <l>Cum Fatis avidas compoſui manus,</l>
+            <l>Ut mecum taciti foedere praelii</l>
+            <l>Aequâ pace quieſcerent.</l>
+            <l>Quid Fortuna ferat craſtina, neſciam,</l>
+            <l>Haeres ipſe mei. Quas dedit, auferet,</l>
+            <l>Non avellet opes, quae procul extim<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Semotae ſpatio jacent.</l>
+            <l>Quae poſſunt adimi, non me a credidi;</l>
+            <l>Nunquam pauperior, ſi meus integer.</l>
+            <l>Regnum, <hi>Marce,</hi> mei, ſi benè de meis</l>
+            <l>Vectigalia cenſibus-</l>
+            <l>Intra me numerem. Pars animi latet</l>
+            <l>Ingens, divitibus latior Indiis,</l>
+            <pb n="50" facs="tcp:121283:33"/>
+            <l>Quo non ter ſpatio longiùs annuo</l>
+            <l>Itur navibns, aut equis.</l>
+            <l>Sed mens aſſiduum viſitur in diem</l>
+            <l>Hoſpes ſaepé ſui; non ebur, aut novas</l>
+            <l>Mercatura dapes, ipſa ſui ſatis</l>
+            <l>Dives, ſi ſibi cernitur.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad Aurelium Fuſcum.</hi> Omnia humana Caduca, incer<g ref="char:EOLhyphen"/>taque eſſe. <hi>Ode</hi> 12. <hi>Lib.</hi> 3.</head>
+            <l>SI primum vacuis demere corticem</l>
+            <l>Rebus, <hi>Fuſce,</hi> velis, cetera diffluunt</l>
+            <l>Vernae more nivis, quae modò nubium</l>
+            <l>Leni tabuit halitu.</l>
+            <l>Formoſis reſeces fortia; diſplicent.</l>
+            <l>Externis trahimur; ſi malè Dardanis</l>
+            <l>Reſpondens Helenae pectus amoribus</l>
+            <l>Famoſus videat Paris;</l>
+            <pb n="52" facs="tcp:121283:34"/>
+            <l>Nuſquam per medii pra<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ia Nerei</l>
+            <l>Ventorumque minas ſplendida deferat</l>
+            <l>Graii furta thori ſed benè mutuo</l>
+            <l>Rerum conſuluit jugo</l>
+            <l>Naturae Dominus, quòd niveis nigra,</l>
+            <l>Laetis occuluit triſtia. Qui bona</l>
+            <l>Rerum de vario deliget agmine,</l>
+            <l>Conſulto ſapiet Deo.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>Ad Caeſarem Pauſilipium. <hi>Regnum ſapientis.</hi> Ode <hi>3.</hi> Lib <hi>4.</hi>
+            </head>
+            <l>LAtè minaces horruimus Lechi</l>
+            <l>Regnare Thracas. Latius imperat,</l>
+            <l>Qui ſolus, exemptuſ que vulgo</l>
+            <l>Certa ſui tenet arma voti.</l>
+            <l>Imbelle pectus parce fidelibus</l>
+            <l>Mvnire parmis; neu latus aſpero</l>
+            <pb n="54" facs="tcp:121283:35"/>
+            <l>Lorica cinctu, neu decorum</l>
+            <l>Arcus amet pharetraeque collum.</l>
+            <l>An Cimber, an te lectus ab ultimis</l>
+            <l>Pictus Britannis ambiat, an Geta,</l>
+            <l>Nil allabores; ipſe miles,</l>
+            <l>Ipſe tibi pugil, ipſe Ductor.</l>
+            <l>Exile regnum, <hi>Pauſilipi,</hi> ſumus:</l>
+            <l>Sed ſe obſequentem qui ſibi ſubdidit,</l>
+            <l>Hic grande fecit, ſi ſuaſmet</l>
+            <l>Ipſe roget peragatque leget.</l>
+            <l>Armata Regem non faciet cohors,</l>
+            <l>Non tincta vulgi purpura ſanguine,</l>
+            <l>Aut nobili ſtellatus auro</l>
+            <l>Frontis apex, teretique gemmâ.</l>
+            <l>Rex eſt, profanos qui domuit metus:</l>
+            <l>Qui cùm ſtat unus, caſira ſibi facit;</l>
+            <l>Caſum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> fortunamque pulchro</l>
+            <l>Provocat aſſidu us duello.</l>
+            <l>Non ille vultum fingit ad improbi</l>
+            <l>Decreta vulgi, non popularia</l>
+            <pb n="56" facs="tcp:121283:36"/>
+            <l>Theatra, non illum trophaea,</l>
+            <l>Non volucri movet aura plauſu.</l>
+            <l>Beatus, à quo non humilem gravie</l>
+            <l>Fortuna vocem, non tumidam levis</l>
+            <l>Expreſſit umquam curioſis</l>
+            <l>Dum tacitus premit ora fatis.</l>
+            <l>Ad prima ſi quis vulnera non gemit,</l>
+            <l>Solo peregit bella ſilentio:</l>
+            <l>Cel<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri qui novit ſiniſtros,</l>
+            <l>Ille poteſt benè ferre caſus.</l>
+            <l>Ille, &amp; caducis ſe licet undi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>
+            </l>
+            <l>Suſpendat auris pontus, &amp; in caput</l>
+            <l>Unius &amp; flammas, &amp; undam, &amp;</l>
+            <l>Vertat agens maria omnia Auſter,</l>
+            <l>Rerum ruinas, mentis ab arduâ</l>
+            <l>Sublimis aulâ non ſine gaudio</l>
+            <l>Spectabit, &amp; latè ruenti</l>
+            <l>Subjiciens ſua collo caelo</l>
+            <l>Mundum decoro vulnere fulciet;</l>
+            <l>Inter<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> caeli frag<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ina, lugubre</l>
+            <pb n="58" facs="tcp:121283:37"/>
+            <l>Telluris iuſiſtet ſepulchrum, ac</l>
+            <l>Incolumis morientis aevi</l>
+            <l>Heres, ab alto proſpiciet magis</l>
+            <l>Haec magna quam ſint quae pedibus premit,</l>
+            <l>Quam quae relinquet; jam tum Olympi</l>
+            <l>Non dubius moriturus hoſpes.</l>
+            <l>Quò cùm volentem fata reduxerint,</l>
+            <l>Nilintereſt, an morbus, an hoſticus</l>
+            <l>Impellat enſis, quò ſupremum</l>
+            <l>Urget itur. Semel advehemur</l>
+            <l>Quam navigamus ſemper in inſulam:</l>
+            <l>Seu lata magnis ſtravimus aequora</l>
+            <l>Regis carinis; ſeu Quirites,</l>
+            <l>Exiguâ vehimur phaſelo.</l>
+            <l>Illo beatum margine me meus</l>
+            <l>Exponat aſſer. Cur ego ſiſtere</l>
+            <l>Aeterno reformidem quietus</l>
+            <l>Littore, ſi peritura linquam?</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="60" facs="tcp:121283:38"/>
+            <head>
+               <hi>Ad Q. Dellium.</hi> Non tam populari exemplo, quâm po<g ref="char:EOLhyphen"/>tius rationis ductu vitam eſſe inſtituendam. <hi>Ode</hi> 10. <hi>Lib.</hi> 4.</head>
+            <l>DELLI, ſi populo duce</l>
+            <l>Vitae degenerem carpimus orbitam,</l>
+            <l>Erramus, procul arduis</l>
+            <l>Virtus ſe nimium ſepoſuit jugis.</l>
+            <l>Illuc quò via tritior,</l>
+            <l>Hoc eſt certa minùs. Longus inutili</l>
+            <l>Error nectitur ordine:</l>
+            <l>Et mores populum, non ratio trahit.</l>
+            <l>Caſu vivitur, &amp; viam</l>
+            <l>Non metam premimus, quà praeeuntium</l>
+            <l>Per veſtigia civium</l>
+            <l>Inſanae ſtrepitus plebis, &amp; improba</l>
+            <l>Voces invidiae vocant.</l>
+            <l>Exemplis trahimur, &amp; trahimus retrò,</l>
+            <pb n="62" facs="tcp:121283:39"/>
+            <l>Soli nemo ſibi eſt malus.</l>
+            <l>Nulli vita ſua eſt: dum vaga poſter<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Turbam turba premit gradu,</l>
+            <l>Sunt primi exitio ſaepè ſequentibus.</l>
+            <l>Me Parnaſſus &amp; integer</l>
+            <l>Plebeiis Helicon caetibus eripit</l>
+            <l>Sublimem; undè vagantium</l>
+            <l>Errores animorum, &amp; malè deſidis</l>
+            <l>Vulgi damna patent, juvat</l>
+            <l>Ex alto intrepidum colle jacentià</l>
+            <l>Deſpectare pericula, &amp;</l>
+            <l>Cautum non propriis vivere caſibus.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad Sigiſmundum Laetum.</hi> Gloriae inanis deſpicientiam &amp; ſilen<g ref="char:EOLhyphen"/>tium commendat. Ode 11. l. 4.</head>
+            <l>Laete, quid caſſis ſequimur fugacem</l>
+            <l>Gloriam telis? fugit illa Mauri</l>
+            <l>More, vel Parthi, regeritque ab ipſo</l>
+            <l>Vulnera tergo.</l>
+            <pb n="64" facs="tcp:121283:40"/>
+            <l>Hoſpes unius negat eſſe tect;</l>
+            <l>Garrulus vulgi favor: hîc inani</l>
+            <l>Aure rumores legit, inde veris</l>
+            <l>Falſa remiſcet.</l>
+            <l>Hîc velat nidum poſiturus haeſa,</l>
+            <l>Mox ubi vano vacuum tumultu</l>
+            <l>Pectus illuſit, tacitis in altum</l>
+            <l>Subſilit alis,</l>
+            <l>Vera laus ſciri fugit, ipſe pulcher</l>
+            <l>Se ſuâ Titan prohibet videri</l>
+            <l>Luce: qui totus potuit latere,</l>
+            <l>Major habetur.</l>
+            <l>Qui premit ſacram taciturnitate</l>
+            <l>Pectoris gazam; benè non ſilenti</l>
+            <l>Tutus in vulgo benè ſuſpicaci</l>
+            <l>Regnat in aulâ.</l>
+            <l>Praterit mutas benè cymba ripas;</l>
+            <l>Quae ſimul raucis ſtrepuêre ſaxis,</l>
+            <l>In latus cautam ſapiens memente</l>
+            <l>Avertere proram.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="66" facs="tcp:121283:41"/>
+            <head>
+               <hi>Ad Ianum Libinium.</hi> Solitudinem ſu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m excuſat. <hi>Ode</hi> 12. <hi>Lib.</hi> 4.</head>
+            <l>QUid me latentem ſub tenui lare</l>
+            <l>Dudum moretur, cùm mihi civium</l>
+            <l>Amica certatim pateſcant</l>
+            <l>Atria, ſaepè rogas <hi>Libini.</hi>
+            </l>
+            <l>Me plenus extra quid cupiam? me<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>In memetipſum clauſus ab oſtio,</l>
+            <l>In ſe recedentis reviſo</l>
+            <l>Scenam animi, vacuum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> reluſtre</l>
+            <l>Vitae theatrum, ſollicitus mei</l>
+            <l>Spectator, an quae fabula prodii</l>
+            <l>Matura procedam, &amp; ſupremo</l>
+            <l>Numinis excipienda plauſu.</l>
+            <l>Omnes recenſet numen, &amp; approbat</l>
+            <l>Vel culpat actus: quo mea judice</l>
+            <l>Si ſcena non levè peracta eſt,</l>
+            <l>Sim populo ſine teſte felix.</l>
+            <pb n="98" facs="tcp:121283:42"/>
+            <l>O di loquacis compita gloriae</l>
+            <l>Plebeia: quam cùm fama faventibus</l>
+            <l>Evexit auris ſaepè miſſo</l>
+            <l>Invidiae ſtimulata telo,</l>
+            <l>Aut invidentûm territa vocibus,</l>
+            <l>Parùm obſtinatis &amp; malè fortibus</l>
+            <l>Dimittit alis. Illa nudam</l>
+            <l>Plangit humum, laceroſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſaxis</l>
+            <l>Affligit artus. Me meliùs tegat</l>
+            <l>Privata virtus, &amp; popularia</l>
+            <l>Numquam volaturum per ora</l>
+            <l>Celet iners ſine laude tectum.</l>
+            <l>Semota laudem ſi meruit, vetat</l>
+            <l>Audire virtus. tutiùs invidi</l>
+            <l>Longinqua miramur: propinquis</l>
+            <l>Laevus amat comes ire Livor.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="70" facs="tcp:121283:43"/>
+            <head>
+               <hi>Ad Caeſarem Pauſilippium.</hi> Adverſa conſtanti animo feren<g ref="char:EOLhyphen"/>da eſle. <hi>Ode</hi> 13. <hi>Lib.</hi> 4.</head>
+            <l>SI quae flent mala lugubres</l>
+            <l>Auferrent oculi Sidoniis ego</l>
+            <l>Mercarer benè lacrymas</l>
+            <l>Gemmis, aut teretum merce monilium.</l>
+            <l>At, ceu rore ſeges viret,</l>
+            <l>Sic creſcunt riguts triſtia fletibus.</l>
+            <l>Urget lacryma lacrymam;</l>
+            <l>Fecunduſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſui ſe numerat Dolor.</l>
+            <l>Quem fortuna ſemel virum</l>
+            <l>Udo degenerem lumine viderit,</l>
+            <l>Illum ſaepè ferit; mala</l>
+            <l>Terrentur tacito fata ſilentio.</l>
+            <l>Ne te, ne tua fleveris</l>
+            <l>Quae tu, care, vocas, <hi>Pauſilipi,</hi> mala,</l>
+            <pb n="72" facs="tcp:121283:44"/>
+            <l>Quam pellunt lacrymae, fovent</l>
+            <l>Sortem: dura negant cedere mollibus.</l>
+            <l>Siccas ſi vide at genas,</l>
+            <l>Durae cedet hebes ſors patientiae.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad Criſpum Laevinium.</hi> Rogatus curſaepè per viam caneret, reſponder. <hi>Ode</hi> 44. <hi>Lib</hi> 4.</head>
+            <l>CUm meam nullis humeros onuſtus</l>
+            <l>Sarcinis tecum patriam reviſo</l>
+            <l>Laetus, &amp; parvo mihi cumque dives</l>
+            <l>Canto viator.</l>
+            <l>Tu ſiles moeſtùm: tibi cura Muſas</l>
+            <l>Demit, &amp; multi grave pondus auri.</l>
+            <l>Quaeque te quondam malefida rerum</l>
+            <l>Turba relinquet.</l>
+            <l>Dives eſt qui nil habet; illa tantùm</l>
+            <l>Quae poteſt certâ retinere dextrâ,</l>
+            <pb n="74" facs="tcp:121283:45"/>
+            <l>Seque fert ſecum vaga quò, migrare</l>
+            <l>Juſſit egeſtas.</l>
+            <l>Quid mihi, qui nil cupiam, deeſſe</l>
+            <l>Poſſit? umbroſi placet una <hi>Pindi</hi>
+            </l>
+            <l>Vallis: ô ſacrum nemus, ô jocoſae</l>
+            <l>Rura Camoenae!</l>
+            <l>Quae meos poſcet via cun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> greſſus,</l>
+            <l>Delphici mecum, mea regna, colles</l>
+            <l>Itis, &amp; feſſum comitante circum-</l>
+            <l>Siſtitis umbrâ.</l>
+            <l>Me Gothus ſaevis religet catenis,</l>
+            <l>Me Scythes captum rapiat ſolutâ</l>
+            <l>Mente, vobiſcum potero tremendos</l>
+            <l>Viſere Reges.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad Munatium.</hi> Nihil in rebus humanis non taedio plenum eſſe. <hi>Ode</hi> 15. <hi>Lib.</hi> 4.</head>
+            <l>NUeſt, <hi>Munati,</hi> nil, iterùm canam,</l>
+            <l>Mortale, nil eſt, immedicabilis</l>
+            <l>Immune taedî. Clarus olim</l>
+            <l>Sol proavis ataviſque nobis,</l>
+            <pb n="76" facs="tcp:121283:46"/>
+            <l>Parùm ſalubris, nec maculâ reus</l>
+            <l>Damnatur unâ; quicquid in arduo</l>
+            <l>Immortale mortales <hi>Olympo</hi>
+            </l>
+            <l>Vidimus, invidiae caducâ</l>
+            <l>Fuſcamus umbrâ. non placet incolis</l>
+            <l>Qui Sol avitis exoritur jugis;</l>
+            <l>Aut priſca quae dudum paternam</l>
+            <l>Luna ferit radiis feneſtram.</l>
+            <l>Calo quotannis, &amp; patriis leves</l>
+            <l>Migramus arvis; hunc tepidae vocant</l>
+            <l>Brumae Batavorum, huic aprici</l>
+            <l>Auſoniae placuêre ſoles.</l>
+            <l>Fruſtrà; fideles ſi dominum retrò</l>
+            <l>Morbi ſequuntur, nec tacitus Dolor</l>
+            <l>Abſiſtit, aut Veiente curru,</l>
+            <l>Aut Venetâ comes ire cymbâ.</l>
+            <l>Tandemque nobis exulibus placent</l>
+            <l>Relicta; certam cui poſuit domum</l>
+            <l>Virtus, huic nunquam paternae</l>
+            <l>Fumus erit lacrymoſus aulae.</l>
+            <pb n="78" facs="tcp:121283:47"/>
+            <l>Virtus agreſti dives in otio</l>
+            <l>Seſe ipſa claudit finibus in ſuis</l>
+            <l>Plerumque, &amp; inſonti quietum</l>
+            <l>In pale â ſolium reclinat.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad Ieſum Opt. Max. Ex ſacro Salomonis Epithalamio,</hi> Indica mihi quem diligit anima mea, ubi paſcas, ubi cubes in meridie. <hi>Ode 19. Lib. 4.</hi>
+            </head>
+            <l>DIcebas abiens: Sponſa vale; ſimul</l>
+            <l>Viciſti liquidis nubila paſſibus.</l>
+            <l>Longam ducis, Jeſu,</l>
+            <l>In deſideriis moram.</l>
+            <l>Ardet am medio ſumma dies polo,</l>
+            <l>Jam parcit ſegeti meſſor, &amp; algidac</l>
+            <l>Paſtor cum grege valle is,</l>
+            <l>Er pictae volucres petunt.</l>
+            <pb n="80" facs="tcp:121283:48"/>
+            <l>At te quae tacitis deſtinet otiis</l>
+            <l>O Jeſu regio? quis mihi te locus</l>
+            <l>Caecis invidet umbris,</l>
+            <l>Aut ſpiſſâ nemorum coma?</l>
+            <l>Scirem quo jace as ceſpite languidus,</l>
+            <l>Quis ventus gracili praeflet anhelitu,</l>
+            <l>Quis rivus tibi grato</l>
+            <l>Somnum praetere at ſono;</l>
+            <l>Ah! nè te nimio murmure ſuſcitent</l>
+            <l>Noſtrae diluerent flumina lacrymae,</l>
+            <l>Et ſuſpiria crudis</l>
+            <l>Miſcerentur Eteſiis.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="82" facs="tcp:121283:49"/>
+            <head>
+               <hi>Ex ſacro Salomonis Epithalamio.</hi> En dilectus meus loquitur mihi: Surge, propera amica mea, columba mea, formoſa mea, &amp; veni. Iam enim hiems tranſiit, imber abiit &amp; receſ<g ref="char:EOLhyphen"/>ſit. <hi>&amp;c. Ode</hi> 21. <hi>Lib.</hi> 4.</head>
+            <l>FAllor? an Elyſii lavâ de parte Sereni</l>
+            <l>Me mea vita vocat!</l>
+            <l>Surge ſoror, pulchris innectito lora columbis;</l>
+            <l>Pulchrior ipſa ſuper</l>
+            <l>Scande rot as, Libani<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> levem de vertice currum,</l>
+            <l>Has, age flecte domos.</l>
+            <l>Ad tua decidu fugiunt veſtigia nimbi,</l>
+            <l>Turbidus imber abiît:</l>
+            <l>Ipſa ſub innocuis miteſcunt fulmina plantis,</l>
+            <l>Ipſa vireſcit hiems.</l>
+            <pb n="84" facs="tcp:121283:50"/>
+            <l>Interea ſacris aperit ſe ſcena viretis</l>
+            <l>Sub pedibuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tibi</l>
+            <l>Altera floret humus, alter<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vagantia latè</l>
+            <l>Sidera paſcit ager.</l>
+            <l>Hic etiam trepidi pendent è rupibus hoedi,</l>
+            <l>Praecipiteſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> caprae;</l>
+            <l>Hinnaleique ſuis, paſſim dum flumina tranant,</l>
+            <l>Luxuriantur aquis.</l>
+            <l>It Leo cum Pardo viridis de colle Saniri</l>
+            <l>Mitis uterque regi,</l>
+            <l>Cumque ſuo paſſim ludunt in montibus agno</l>
+            <l>Exſuperantque juga.</l>
+            <l>Plurimus hos circum tacito pede labitur amnis,</l>
+            <l>Pumicibuſque cavis</l>
+            <l>Per violas lapſae, per declives hyacinthos,</l>
+            <l>Exſpatiantur aquae.</l>
+            <l>Benè fluunt rivi, muſcoſis lenè ſuſurrus</l>
+            <l>Murmurat è ſcopulis.</l>
+            <l>In vitrio piſces ſaliunt hilares cryſtallo,</l>
+            <l>Dulcè queruntur aves.</l>
+            <l>Nec verò, ſi moeſta placent ſaletia, caelo</l>
+            <l>Flobile murmur abeſt:</l>
+            <pb n="86" facs="tcp:121283:51"/>
+            <l>Nam ſibi dum veſtro regemunt ex orbe palumbes,</l>
+            <l>Huc ſonus ille venit.</l>
+            <l>Sic dum ſe viduo ſolatur Carmine turtur,</l>
+            <l>Gandia noſtra placent.</l>
+            <l>Cetera non deſunt. pronis vindemia pendet</l>
+            <l>Officio ſa botris,</l>
+            <l>Hîc etiam vulgò violas, albentia vulgò</l>
+            <l>Ungue liguſtra leges:</l>
+            <l>Ipſa tibi, leti ſuccos oblita priores,</l>
+            <l>Mitia poma cadent:</l>
+            <l>Ipſae maturâ labentur ab arbore ficus,</l>
+            <l>Percutient<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſinum.</l>
+            <l>Intereà falcem vindemia neſcit, aratrum</l>
+            <l>Saucia neſcit humus.</l>
+            <l>Ipſae ſponte virent ſegetes, innoxius ipſe</l>
+            <l>Meſſibus albet ager.</l>
+            <l>Praebent Hoſpitium platasi: praebet formoſos</l>
+            <l>Graminis herba toros.</l>
+            <l>Caedua Pa<g ref="char:cmbAbbrStroke">̄</g>chaeos ſudant opobalſama nimbos;</l>
+            <l>Et genialis odor</l>
+            <pb n="88" facs="tcp:121283:52"/>
+            <l>Aſpirat quoties, nut antibus hinc atque illinc</l>
+            <l>Ingruit aura comis.</l>
+            <l>Surge; quid indignos ducis per taedia ſoles?</l>
+            <l>Surge, age, cara ſoror.</l>
+            <l>Ecce tuis ipſae jam circum fraena columbae</l>
+            <l>Ingemuêre moris.</l>
+            <l>Huc age, formoſas formoſior ipſa columbas</l>
+            <l>Hoſpita flecte ſoror.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad Ianuſsium Skuminum.</hi> Cùm conjugi chariſſimae juſta per ſolveret. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Ode</hi> 30. <hi>Lib.</hi> 4.</head>
+            <l>SI tibi pollicitum numen, ſi fata fuiſſent</l>
+            <l>Aeternos fore conjugis annos;</l>
+            <l>Jure per aſſiduos (procerum fortiſſime) fletus</l>
+            <l>Ereptam quererêre, <hi>Januſſi.</hi>
+            </l>
+            <l>Quem Pietas, quem non moveat uon triſtibus unquane</l>
+            <l>Arx animi concuſſa procellis</l>
+            <pb n="90" facs="tcp:121283:53"/>
+            <l>Et pudor, &amp; proni niveo de pectore ſenſus,</l>
+            <l>Et Regina modeſtia morum,</l>
+            <l>Aut bona ſedulitas, aut non incauta futuri</l>
+            <l>Praeſagae ſolertia montis?</l>
+            <l>Provida ſed longum magnis virtutibus aevum</l>
+            <l>Non audent promittere fata:</l>
+            <l>Nec poſſunt, ſi quae maturavêre, profanis</l>
+            <l>Aſtra diu committere terris,</l>
+            <l>Nunc adeò paerces longis onerare querelis</l>
+            <l>Depoſitum repetentia magnum,</l>
+            <l>Ingentes animi gazas, &amp; robur, &amp; aureo</l>
+            <l>Jncoctum benè pectus honeſto.</l>
+            <l>Sic Tanaquil, ſic quae cunctantem Claudia rexit</l>
+            <l>Virgine â cervice Cybellen,</l>
+            <l>Quaeque maritali ſucceſſit Theſſala fato,</l>
+            <l>Et Latiis vaga Cloelia ripis;</l>
+            <l>Ante diem raptae vivunt poſt funera, varum</l>
+            <l>Perpetuos in carmine faſtos.</l>
+            <l>Illa quide<g ref="char:cmbAbbrStroke">̄</g> non, ſi ſurdos ad carmina Manes</l>
+            <l>Orpheâ teſtudiue vincaem,</l>
+            <pb n="92" facs="tcp:121283:54"/>
+            <l>Educt as adamante fores, &amp; ahene a rumpat</l>
+            <l>Elyſiii pomoeria muri,</l>
+            <l>Reddatur<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tibi. Stat aulli janua voto,</l>
+            <l>Nullis exorata Poëtis.</l>
+            <l>Sunt tamen exiles inſigni in limine rimae</l>
+            <l>Quà poſſint arcana videri,</l>
+            <l>Hac ego, ſi nullos fallunt inſomia maneis,</l>
+            <l>Aut vidi, aut vidiſſe putavi</l>
+            <l>Errantem campo in magno, quem gemmea circum</l>
+            <l>Perſpicuis ſtant moenia portis:</l>
+            <l>Auro prata virent; arbor crinitur in aurum;</l>
+            <l>Criſpantur viol aria gemmis,</l>
+            <l>Quae nec Apellaeus liquor, nec pulchra trigoni</l>
+            <l>Aſſimulent mendacia vitri,</l>
+            <l>Centum ibi formoſis in vallibus Heroïnae</l>
+            <l>Aeternum Paeana frequentant.</l>
+            <l>Stant virides campo ſtellae, madidiſque coruſca</l>
+            <l>Connivent ſibi ſidera flammis.</l>
+            <l>Illa inter medias parvo comitata nepote</l>
+            <l>Et roſeo vivacior ore,</l>
+            <pb n="94" facs="tcp:121283:55"/>
+            <l>Ibat ovans, grandem<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſibi, grandemque nepoti</l>
+            <l>Nectebat de flore coronam.</l>
+            <l>Cetera me vetuit magni caligo ſereni</l>
+            <l>Mortali percurrere viſu.</l>
+            <l>Nec tu plura velis; ſatis eſt, cui fata dederunt</l>
+            <l>Aeternis mutaſſe caduca.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad Albertum Turſcium.</hi> De ſuis ſomniis &amp; lyricis. <hi>Ode</hi> 32. <hi>Lib.</hi> 4.</head>
+            <l>TUrſci, ſeu brevior mihi</l>
+            <l>Seu pernox oculos compoſuit ſopor,</l>
+            <l>Pennas Somnia laevibus</l>
+            <l>Aſſigunt humeris; jamque virentia</l>
+            <l>Laetus prata ſuperuolo,</l>
+            <l>Quà ſe cumque novum mollè tumentibus</l>
+            <l>Campis explicuit nemus,</l>
+            <l>Herboſaeque patet ſcena ſuperbiae:</l>
+            <pb n="96" facs="tcp:121283:56"/>
+            <l>Mox &amp; nubibus altior,</l>
+            <l>Miſtus flumineis ales oloribus;</l>
+            <l>Vivos deſpicio lacus,</l>
+            <l>Et dulci volucrem carmine mentior.</l>
+            <l>Jam tunc nubila, jam mihi</l>
+            <l>Blandis diſſiliunt fulmina cantibus;</l>
+            <l>Et quae plurima circuit</l>
+            <l>Collum, punice â vincior Iride.</l>
+            <l>Idem jam vigil, &amp; meus,</l>
+            <l>Non ingrata ſimul ſomnia diſpuli,</l>
+            <l>Cùm ter mobilibus lyram</l>
+            <l>Percuſſi digitis, immemor &amp; ducis</l>
+            <l>Nil ſectator Horatii,</l>
+            <l>Sublimis liquidum nitor in aëra;</l>
+            <l>Et nunc littora, nunc vag as</l>
+            <l>Siccis trajiciens paſſibus inſulas,</l>
+            <l>Nil mortale mei gero, &amp;</l>
+            <l>Jam nil ſollicito debeo ponderi.</l>
+            <l>
+               <hi>Turſci,</hi> ſaepè tamen mones</l>
+            <l>Olim ne veteri clarior Icaro</l>
+            <pb n="96" facs="tcp:121283:57"/>
+            <l>Veris fabula caſibus</l>
+            <l>Mutem Parrhaſii nomina Balthiri.</l>
+            <l>Fruſtra; nam memor Icari,</l>
+            <l>Addo ſtultitiae conſilium brevi:</l>
+            <l>Nam, ſeu dormio, me torus;</l>
+            <l>Seu ſcribo, ſtabili ſella tenet ſitu.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>Ad Quintum Tiberinum. Ode 34. Lib. 4.</head>
+            <l>DIvitem nunquam, <hi>Tiberine,</hi> dices,</l>
+            <l>Cujus Eois potiora glebis</l>
+            <l>Rura, fortunae ſine faece pulcher</l>
+            <l>Rivus inaurat.</l>
+            <l>Quem per inſigneis geniale ceras</l>
+            <l>Stemma claravit; vaga quem per urbes</l>
+            <l>Quem per &amp; gentes radiante vexit</l>
+            <l>Gloria curru.</l>
+            <l>Pauper eſt, qui ſe caret; &amp; ſuperbè</l>
+            <l>Ipſe ſe librans, ſua rur a latam</l>
+            <pb n="98" facs="tcp:121283:58"/>
+            <l>Addit in lancem, ſocio<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> fallens</l>
+            <l>Pondus in auro,</l>
+            <l>Ceteris parvus, ſibi magnus uni,</l>
+            <l>Ipſe ſe neſcit, pretioque falſae</l>
+            <l>Plebis attollit, propria<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſe mi<g ref="char:EOLhyphen"/>ratur in umbrâ.</l>
+            <l>Splendidam verâ fine luce gazam,</l>
+            <l>Turgidum plenâ ſine laude nomen</l>
+            <l>Mitte; te ſolo, <hi>Tiberine,</hi> diſces</l>
+            <l>Eſſe beatus.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>Ad Paulum Coſlovium. <hi>Ode</hi> 35. <hi>Lib.</hi> 4.</head>
+            <l>I Am pridem tepido veris anhelitu</l>
+            <l>Afflarunt reduces arva Favonii;</l>
+            <l>Jam ſe florida vernis</l>
+            <l>Pingunt prat a coloribus:</l>
+            <l>Siratus frugiferis Vilia puppibus</l>
+            <l>Grato praeter abit rura ſilentio,</l>
+            <l>Quamvis proximus omni</l>
+            <l>Collis perſonet alite;</l>
+            <pb n="100" facs="tcp:121283:59"/>
+            <l>Quamvis &amp; viridi paſtor ab aggere</l>
+            <l>Dicat gramine â carmina fiſtulâ.</l>
+            <l>Et qui navita debet</l>
+            <l>Plenis otia carbaſis.</l>
+            <l>Aequas Palladiis, <hi>Paulle,</hi> laboribus</l>
+            <l>Inter pone vices. Cras ſimul aureo</l>
+            <l>Sol arriſerit ore</l>
+            <l>Summorum jug a montium,</l>
+            <l>Scandemus viridis terga Luciſcii,</l>
+            <l>Quà celſâ tegitur plurimus ilice,</l>
+            <l>Et ſe praetereuntûm</l>
+            <l>Audit murmura fontium.</l>
+            <l>Illinc è medio tota videbitur</l>
+            <l>Nobis Vilna jugo; tota videbitur</l>
+            <l>Quae Vilnam ſinuoſis</l>
+            <l>Ambit Vilia flexibus.</l>
+            <l>Illinc picta procul quae radiantibus</l>
+            <l>Fulgent fana tholis, &amp; geminam ſuper</l>
+            <l>Deſpecta bimus arcem,</l>
+            <l>Magni regna Palaemonis.</l>
+            <pb n="102" facs="tcp:121283:60"/>
+            <l>Ut longo faciles Pacis in otio</l>
+            <l>Se tollunt populi! nam tria tertio</l>
+            <l>Surrexêre ſub anno</l>
+            <l>Priſcis templa Quiritibus;</l>
+            <l>Et quà conſpicuis ſe Gediminia</l>
+            <l>Jactant ſaxa jugis, &amp; Capitolium,</l>
+            <l>Et quae tecta ſuperbis</l>
+            <l>Intrant nubila turribus.</l>
+            <l>Auget magna, Quies: exiguus labor</l>
+            <l>In majus modico provenit otio<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Hinc &amp; terga virentûm</l>
+            <l>Latè proſpice collium.</l>
+            <l>Quae nunc mobilibus nut at Eteſiis,</l>
+            <l>Segni cana ſtetit ſub nive populus:</l>
+            <l>Qui nunc defluit, altâ</l>
+            <l>Haeſit ſub glacie latex:</l>
+            <l>Qui nunc purpureis floret ager roſis,</l>
+            <l>Immoto ſterilis delituit gelu:</l>
+            <l>Verno quae ſtrepit ales,</l>
+            <l>Hiberno tacuit die.</l>
+            <pb n="104" facs="tcp:121283:61"/>
+            <l>Ergò rumpe moras, &amp; ſolidum gravê</l>
+            <l>Curae deme diem, quem tibi candidus</l>
+            <l>Spondet veſper, &amp; albis</l>
+            <l>Cras Horae revehent equis.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad Paulum Iordanum Vrſinum Brac<g ref="char:EOLhyphen"/>ciani Ducem.</hi> Bracciani agri amoenitatem commen<g ref="char:EOLhyphen"/>dat, ad quam per ferias Septem<g ref="char:EOLhyphen"/>bres ſeceſſerat Româ. <hi>Ode</hi> 1. <hi>Lib. Epod.</hi>
+            </head>
+            <l>HUc ô quietis apta Muſis otia,</l>
+            <l>Leveſque Ludorum chori;</l>
+            <l>Huc feriantûm Phoebe Muſarum pater,</l>
+            <l>Huc hoſpitales Gratiae;</l>
+            <l>Huc delicatis ite permiſti Jocis</l>
+            <l>Non inverecundi Sales:</l>
+            <pb n="106" facs="tcp:121283:62"/>
+            <l>Hîc otio ſi mite Bracciani ſolum</l>
+            <l>Vago coronemus pede.</l>
+            <l>Clemens ſupino clivus aſſurgit jugo,</l>
+            <l>Caelum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> paulatim ſubit,</l>
+            <l>Et ſolida ſubter terga ſcopulorum arduo</l>
+            <l>Securus inſeſſu premit:</l>
+            <l>Arciſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> jactat inter alta turrium</l>
+            <l>Inſigne propugnacula,</l>
+            <l>Timenda quondam Caeſarum turmis ducum,</l>
+            <l>Timenda magno Borgiae,</l>
+            <l>Cùm per minantûm militum aeratos globos</l>
+            <l>Metuenda jaceret fulmina,</l>
+            <l>Ageretque profugum Caeſarem, &amp; quaſſum metu,</l>
+            <l>Aduſque promiſſum <hi>Nihil.</hi>
+            </l>
+            <l>Hîc ille magnus fraenat Etruſcas opes</l>
+            <l>
+               <hi>Urſmus</hi> Heroum decus,</l>
+            <l>Haeres avitae laudis, &amp; princeps caput</l>
+            <l>Magnae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> laus Oenotriae.</l>
+            <l>Circùm coruſcis ſcena quercetis viret,</l>
+            <l>Caelumque verrit frondibus,</l>
+            <pb n="108" facs="tcp:121283:63"/>
+            <l>Suoque colles veſtit, &amp; patentibus</l>
+            <l>Seſe theaetris explicat.</l>
+            <l>Admota muris ponè Nympharum domus</l>
+            <l>Aprica praebet littora:</l>
+            <l>Ripamque Baccho jung it, &amp; vallum prope</l>
+            <l>Lentis flagellat fluctibus.</l>
+            <l>Majore nuſquam ſtagna Neptuno ſonant,</l>
+            <l>Aut aeſtuantis Larii,</l>
+            <l>Aut qui ſevero tangit Albanus lacu</l>
+            <l>Inenatabilem Styga:</l>
+            <l>Aut quae procellis gaudet, &amp; magno fremit</l>
+            <l>Superba ponto Julia:</l>
+            <l>Nec major uſquam ſpumat, &amp; rupes truci</l>
+            <l>Benacus aſſultat ſalo.</l>
+            <l>Intonſa curvo monte circumſtant juga,</l>
+            <l>Miteſque deſpetant aquas.</l>
+            <l>Nivoſus illinc terga Romanus movet,</l>
+            <l>Caeloque diducit minas:</l>
+            <l>Illinc caducis ilicem quaſſat comis</l>
+            <l>Sublime Cymini caput:</l>
+            <pb n="110" facs="tcp:121283:64"/>
+            <l>Crudumque Boream frangit impotentibus</l>
+            <l>Depraeliaturum Notis,</l>
+            <l>Terriſque latè regnat, &amp; caeli minis</l>
+            <l>Opponit hibernum latus.</l>
+            <l>Amica ſternit interim lacum quies,</l>
+            <l>Fluctuſque fluctu nititur,</l>
+            <l>Et ipſa ſecum pigra luctatur Thetis,</l>
+            <l>Aquaeque colludunt aquis:</l>
+            <l>Quas vel carinâ, vel citata turgido</l>
+            <l>Findit phaſelus linteo:</l>
+            <l>Pinnâque latè vitreum cogens pecus</l>
+            <l>Velente lino truditur,</l>
+            <l>Setâque piſcem ducit, &amp; raris procul</l>
+            <l>Lacum coronat retibus.</l>
+            <l>Hinc alta lucet divitis Pollae domus,</l>
+            <l>Hinc pinguis Anguilaria:</l>
+            <l>Trebonianas hinc amica vineas</l>
+            <l>Vadoſa plangunt aequora:</l>
+            <l>Hinc delicati fundus Aurelî nitet,</l>
+            <l>Lymphae ſalutarîs pater:</l>
+            <pb n="112" facs="tcp:121283:65"/>
+            <l>Undáque morbos arcet, &amp; vivacibus</l>
+            <l>Lucem fluentis eluit.</l>
+            <l>At quà ſuperbum fontibus nomen dedit</l>
+            <l>Suumque Flora marginem,</l>
+            <l>Vivis perennes decidunt ſaxis aquae,</l>
+            <l>Campoſque decurſu lavant,</l>
+            <l>Patremque longè Tybrin, &amp; regem ſonant,</l>
+            <l>Romaeque ſervitum fluunt.</l>
+            <l>Sincera circùm regna naturae nitent,</l>
+            <l>Et artis immunes loci:</l>
+            <l>Adhucque virgo ſulcus, &amp; montes adhuc</l>
+            <l>Molleis inexperti manus,</l>
+            <l>Meramque Bacchus Tethyn, &amp; Bacchum Thetis,</l>
+            <l>Et pinguis invitat Ceres.</l>
+            <l>Hinc ille laetus ſurgit, &amp; tenacibus</l>
+            <l>Inſerpit ulmis Evius,</l>
+            <l>Udoque cornu turget, &amp; fluentibus</l>
+            <l>Crinem racemis impedit.</l>
+            <l>Non Lesbos illi, non odorati magis</l>
+            <l>Vineta rident Maſſici,</l>
+            <pb n="114" facs="tcp:121283:66"/>
+            <l>Aut quae Falernis educata ſolibus</l>
+            <l>Sublucet uvae purpura.</l>
+            <l>Sed nee Faliſci glaream malit ſoli,</l>
+            <l>Nec pinguis uber Rhaetiae;</l>
+            <l>Nec flava tantùm culta felicis Cypri,</l>
+            <l>Graiámve dilexit Rhodon:</l>
+            <l>Quantùm ſuis ſuperbit, &amp; ſeſe ſuis</l>
+            <l>Miratur in canalibus.</l>
+            <l>Circùm beatis imperat campis Ceres.</l>
+            <l>Lateque rura poſſidet:</l>
+            <l>Et arva flavo meſſium fluctu tument,</l>
+            <l>Motuque culmorum natant.</l>
+            <l>Innube rarus inquinat caelum vapor,</l>
+            <l>Aut tenſa nimbis vellera:</l>
+            <l>Aut è Boreis bella ventorum plagis,</l>
+            <l>Raucuſque ſilvarum fragor</l>
+            <l>Auditur uſquam: non protervis inſonant</l>
+            <l>Exercitati Syrtibus,</l>
+            <l>Euris &amp; Auſtris contumaces Africi,</l>
+            <l>Et perdnellibus Notis.</l>
+            <pb n="116" facs="tcp:121283:67"/>
+            <l>Tantùm ſerenus Veſper, &amp; tenerrima</l>
+            <l>Eteſiarum flamina.</l>
+            <l>Albique ſoles, &amp; ſerena lucidis</l>
+            <l>Aſpirat aura montibus:</l>
+            <l>Puramque caelo provehunt Horae facem,</l>
+            <l>Et Phoebus Horarum pater</l>
+            <l>Peculiari luce colles irrigat,</l>
+            <l>Pronáque perfundit die.</l>
+            <l>Ramis tepentes ingruunt Favonii</l>
+            <l>Jocantis aurae ſibilo,</l>
+            <l>Et temperatis provocant ſuſpiriis,</l>
+            <l>Leni<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſomnum murmure.</l>
+            <l>At non loquaces interim nidi tacent,</l>
+            <l>Matreſque nidorum vagae.</l>
+            <l>Sed aut maritis turtur in ramis gemit,</l>
+            <l>Et ſaxa rumpit queſtibus,</l>
+            <l>Aut laeta latè cantibus mulcet loca</l>
+            <l>Famoſa pellex Thraciae,</l>
+            <l>Silviſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> coram plorat, &amp; crudelibus</l>
+            <l>Accuſat agris Terea:</l>
+            <pb n="118" facs="tcp:121283:68"/>
+            <l>Quaecumque moeſtae vocibus dicunt aves,</l>
+            <l>Reſpondet argutum nemus.</l>
+            <l>Affatur alnum quercus, ornum populus,</l>
+            <l>Affatur ilex ilicem,</l>
+            <l>Et ſe viciſſim collocuta reddicis</l>
+            <l>Arbuſta ſolantur ſonis.</l>
+            <l>Huc ô Quiritûm ductor, huc Oenotriae</l>
+            <l>O magne regnator plagae</l>
+            <l>
+               <hi>Jordane,</hi> tandem plenus urbis &amp; fori,</l>
+            <l>Rerumque magnarum ſatur,</l>
+            <l>Sepone curis temet, &amp; domeſticis</l>
+            <l>Furare pectus otiis.</l>
+            <l>Hîc vel tuarum lene tranabis vadum</l>
+            <l>Opacus umbris arborum,</l>
+            <l>Tuoſque colleis inter, &amp; tu as procul</l>
+            <l>Perambulabis ilices:</l>
+            <l>Vel cum Decembri campus, &amp; prima nive</l>
+            <l>Vicina caneſcent juga;</l>
+            <l>Nunc impeditas mollibus plagis feras,</l>
+            <l>Silvam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> praecinges metu:</l>
+            <pb n="120" facs="tcp:121283:69"/>
+            <l>Nunc incitato capream rumpes equo,</l>
+            <l>Teloque deprendes aprum;</l>
+            <l>Jacto<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> cervos collocabis ſpiculo,</l>
+            <l>Fureſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> terrebis lupos.</l>
+            <l>Quid ſi Latinae laus <hi>Alexander</hi> plagae,</l>
+            <l>Sacraeque ſidus purpurae,</l>
+            <l>Tecum paterno feriabitur ſolo,</l>
+            <l>Seſe<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> curis eximet;</l>
+            <l>Tui<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> cives, hoſpiteſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> civium</l>
+            <l>Toto fruemur gaudio.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <head>
+               <hi>Ad fontem Sonam.</hi> In patrio fundo, dum Româ rediiſſet. Ode 2. Lib. Epod.</head>
+            <l>FOns innocenti lucidus magis vitro</l>
+            <l>Purâque purior nive,</l>
+            <l>Pagi voluptas, una Nympharum ſitis,</l>
+            <l>O celle natalis ſoli.</l>
+            <l>Longis viarum languidus laboribus</l>
+            <l>Et mole curarum gravis</l>
+            <pb n="122" facs="tcp:121283:70"/>
+            <l>Thuſcis ab uſque gentibus redux, tibi</l>
+            <l>Accline proſterno latus:</l>
+            <l>Permitte ſiccus, quà potes, premi; cavâ</l>
+            <l>Permitte libari mann.</l>
+            <l>Sic te quietum nulla perturbet pecus,</l>
+            <l>Ramuſvè lapſus arbore:</l>
+            <l>Sic dum loquaci prata garritu ſecas,</l>
+            <l>Et laetus audiri ſalis;</l>
+            <l>Aſſibilantes populetorum comae</l>
+            <l>Ingrata ponant murmura</l>
+            <l>Tibi, lyrae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Vatis: haud fruſtrà ſacer</l>
+            <l>Nam ſiqnid <hi>Urbanus</hi> probat,</l>
+            <l>O lim fluenti lenè Blanduſiae nihil</l>
+            <l>Aut Sirmioni debeas.</l>
+         </div>
+         <div xml:lang="lat" type="ode">
+            <pb n="124" facs="tcp:121283:71"/>
+            <head>
+               <hi>Palinodia</hi> Ad ſecundam libri Epodon Odam <hi>Q. Horatii Flacci.</hi> Laus otii Religioſi. Ode <hi>3.</hi> Lib. Epod.</head>
+            <l>AT ille, <hi>Flacce,</hi> nunc erit beatior,</l>
+            <l>Qui mole curarum procul</l>
+            <l>Paterna liquit rura, litigantium</l>
+            <l>Solutus omni jurgio;</l>
+            <l>Nec ſolis aeſtum frugibus timet ſuis,</l>
+            <l>Nec ſidus hiberni Jovis,</l>
+            <l>Rixaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vitat, &amp; ſceleſta curiae</l>
+            <l>Rapacioris limina.</l>
+            <l>Ergo aut profanis hactenus negotiis</l>
+            <l>Amiſſa plorat ſidera;</l>
+            <l>Aut in reductâ ſede diſperſum grege<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </l>
+            <l>Errantis animi colligit,</l>
+            <l>Poſt quam beatae lucra conſcienti<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </l>
+            <l>Quadrante libravit ſuo.</l>
+            <pb n="126" facs="tcp:121283:72"/>
+            <l>Idem, propinquâ nocte, ſtellatas vigil</l>
+            <l>Cùm veſper accendit faces,</l>
+            <l>Ut gaudet immortale mirari jubar,</l>
+            <l>Terrâque majores globos,</l>
+            <l>Et per cadenteis intueri lacrymas</l>
+            <l>Rimoſa lucis atria,</l>
+            <l>Quae Chriſte tecum, virgo quae tecum colat</l>
+            <l>Perennis haeres ſaeculi!</l>
+            <l>Volvuntur aureis interim ſtella rotis,</l>
+            <l>Pigrumque linquunt exulem,</l>
+            <l>Per ora cujus uberes eunt aquae,</l>
+            <l>Somnos quod avertat graveis.</l>
+            <l>At quando letum Gangis aut Indi fretis</l>
+            <l>Jam Phoebus attollit caput,</l>
+            <l>Mentis profundus, &amp; ſui totus minor</l>
+            <l>Irata flect it numina:</l>
+            <l>Vel cùm ſereno fulſerit dies Jove,</l>
+            <l>Aprilibuſque feriis,</l>
+            <l>Aſſueta caelo lumina, in terras vocat:</l>
+            <l>Late<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> proſpectum jacit,</l>
+            <pb n="128" facs="tcp:121283:73"/>
+            <l>Campoſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> luſtrat, &amp; relucentem ſua</l>
+            <l>Miratur in ſcenâ <hi>Deum.</hi>
+            </l>
+            <l>En omnis inquit, herba non morantibus</l>
+            <l>In aſtra luctatur comis:</l>
+            <l>Semotacaelo lacrymantur, &amp; piis</l>
+            <l>Liquuntur arva fletibus;</l>
+            <l>Liguſtra canis, &amp; roſae rubentibus</l>
+            <l>Repunt in auras brachiis;</l>
+            <l>Aſtriſque panda neſcio quid pallido</l>
+            <l>Loquuntur ore lilia,</l>
+            <l>Et ſero blandis ingemunt ſuſpiriis,</l>
+            <l>Et mane rorant lacrymis.</l>
+            <l>Egone ſolus, ſolus in terris piger</l>
+            <l>Tenace figor pondere?</l>
+            <l>Sic &amp; propinquas allocutus arbores,</l>
+            <l>Et multa coram fontibus</l>
+            <l>Riviſque fatus, quaerit Auctorem <hi>Deum</hi>
+            </l>
+            <l>Formoſa per veſtigia.</l>
+            <l>Quod ſi levandas mentis in curas vigil</l>
+            <l>Ruris ſuburbani domut;</l>
+            <pb n="130" facs="tcp:121283:74"/>
+            <l>Quales Luciſci, vel Nemecini Lares,</l>
+            <l>Udumvè Beſdani nemus</l>
+            <l>Rudeis adornet ruſticâ menſas dape</l>
+            <l>Siccos ſub Auguſti dies;</l>
+            <l>Jam tunc ſub ipſum limen, aut domeſticâ</l>
+            <l>Lenis ſub umbrâ populi,</l>
+            <l>Expectat omnis hoſpitem ſuum penus,</l>
+            <l>Et concha ſinceri ſalis,</l>
+            <l>Preſſi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> meta lactis, &amp; purus calix,</l>
+            <l>Et hoſpitalis amphora,</l>
+            <l>Et fraga, raris verna quae dumis legit,</l>
+            <l>Jucunda panis praemia.</l>
+            <l>Non me ſcari tunc, non Lucrinorum gravis</l>
+            <l>Saginamulorum juvet:</l>
+            <l>Sed cereu<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> palumbus, aut turtur niger;</l>
+            <l>Au<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nſer amnis accola,</l>
+            <l>Et eruditam quae fugit gulam faba,</l>
+            <l>Laetumque nec ſimplex olus,</l>
+            <l>Et quae ſuprema colligitur, ac gravi</l>
+            <l>Patella nil debet foro.</l>
+            <pb n="132" facs="tcp:121283:75"/>
+            <l>Poſt haec vel inter laeta quercetis juga,</l>
+            <l>Vel inter amneis juverit</l>
+            <l>Vitare triſteis poſt meridiem Notos</l>
+            <l>Sub aeſculo vel ilice;</l>
+            <l>Nigrumvè littus, aut opaca lubricis</l>
+            <l>Tranare ſtagna lintribus,</l>
+            <l>Jactâque fruge ludibundum ducere</l>
+            <l>Tremente piſcem lineâ.</l>
+            <l>Remugit ingens interim tauris nemus,</l>
+            <l>Umbroſa balant flumina;</l>
+            <l>Et aut in antris garriunt acanthides,</l>
+            <l>Aut in rubis luſciniae.</l>
+            <l>Hinc per rubeta paſtor errantes capras</l>
+            <l>Vocante cogit fiſtulâ:</l>
+            <l>Illinc herili meſſor è campo redux</l>
+            <l>Alterna plaudit carmina;</l>
+            <l>Et preſſa ſectos plauſtra per ſulcos gemunt</l>
+            <l>Ruptura ruris horrea.</l>
+            <l>At nec tacemus ponè conſidentium</l>
+            <l>Dulcis manus ſodalium;</l>
+            <pb n="134" facs="tcp:121283:76"/>
+            <l>Nec infacet â ſermo differtur morâ,</l>
+            <l>Sed innocentibus jocis,</l>
+            <l>Multo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tinctus, ſed verecundo ſale,</l>
+            <l>Innoxium trahit diem.</l>
+            <l>Haec ſi videret faenerator Alphius,</l>
+            <l>Olim futurus ruſticus,</l>
+            <l>Quam collocarat Idibus pecuniam,</l>
+            <l>Nollet Kalendis ponere.</l>
+         </div>
+         <div xml:lang="lat" type="epigram">
+            <head>
+               <hi>Epig.</hi> 4. <hi>Ex Lib. Ep.</hi> Veniat delectus meus in hortum ſuum. <hi>Cant.</hi> 5.</head>
+            <l>PUlcher Amor ſumpſit rudis inſtrumenta coloni,</l>
+            <l>Et ſua depoſuit tela ſuaſque faces:</l>
+            <l>Et manibus ſtivam rapuit; caſtique laboris</l>
+            <l>Ad ſu a ruricolas junxit aratra boves.</l>
+            <l>Ilicet, ut facili ſubvertit vomere corda,</l>
+            <l>Caſtaque virginibus Graetia crevit agris;</l>
+            <l>Flos, ait, unus abeſt: ſunt cetera millia florum;</l>
+            <l>Ut nullus poſſit, <hi>Chriſte,</hi> deeſſe, Veni.</l>
+         </div>
+         <div xml:lang="lat" type="epigram">
+            <pb n="136" facs="tcp:121283:77"/>
+            <head>Qualis eſt Dilectus tuus? ex <hi>Cant.</hi> 5. Ex Lib. Epig. 37.</head>
+            <l>QUalis erat, tuus ille? tuus pulcherrimus ille?</l>
+            <l>Dicebat nuper barbara turba mihi.</l>
+            <l>Arripio dextrâ pennam, laevaque tabellam,</l>
+            <l>Et noto, <hi>Chriſte,</hi> tuo quicquid in orbe noto.</l>
+            <l>Pingo roſas, aurum, gemmas, viridaria, ſilvas,</l>
+            <l>Arva, lacus, celeri ſidera pingo manu;</l>
+            <l>Et tabulam monſtrans, Noſter pulcherrimus, inquam,</l>
+            <l>Qualis erat, vultis diſcere? talis erat.</l>
+         </div>
+         <div xml:lang="lat" type="epigram">
+            <head>
+               <hi>Epig.</hi> 40. <hi>Lib. Ep.</hi> Veni de Libano ſponſa.</head>
+            <l>ET fugis, &amp; fugiens clamas, quid ſponſa moraris?</l>
+            <l>Non fugis, ut fugias: ut capiare, fugis,</l>
+         </div>
+         <div xml:lang="lat" type="epigram">
+            <pb n="138" facs="tcp:121283:78"/>
+            <head>Ex lib. Epi. 48. — Lilia manu praeferenti.</head>
+            <l>Haec, quae virgineis nituntur lilia culmis,</l>
+            <l>Undè verecundas explicuêre comas?</l>
+            <l>Non generant ſimiles Paeſtana roſaria flores,</l>
+            <l>Nec ſimili Pharius meſſe ſuperbit ager:</l>
+            <l>Non haec purpureis mater Corcyra viretis,</l>
+            <l>Nec parit aequoreis pulſa Caryſtos aquis.</l>
+            <l>Cùm nullas habeant natales lilia terras,</l>
+            <l>Qui neget è cast â lilia nata manu?</l>
+         </div>
+         <div xml:lang="lat" type="epigram">
+            <head>Ex Lib. Ep. 51. <hi>Iohanni de Lugo,</hi> dum poſt morbum ad intermiſſam de Poenitentiâ doctrinam rediret.</head>
+            <l>FErtur inornatis nuper Metanoea capillis</l>
+            <l>Fleſſe, repentinâ cùm raperêre febri:</l>
+            <l>Fertur &amp; indomit o fraenos laxaſſe dolori,</l>
+            <l>Et lacrymis madidos exhibuiſſe ſinus:</l>
+            <pb n="140" facs="tcp:121283:79"/>
+            <l>Cùm rurſus domito repetis tua pulpita morbo,</l>
+            <l>Fertur inornatas diſpoſuiſſe comas:</l>
+            <l>Et domitos hilari riſu fraenaſſe dolores,</l>
+            <l>Et lacrymis vacuos explicuiſſe ſinus.</l>
+            <l>Quis, Pater, incolumi de te non gaudeat, ipſae</l>
+            <l>Si gaudent Lacrymae, ridet &amp; ipſe Dolor?</l>
+         </div>
+         <div xml:lang="lat" type="epigram">
+            <head>Chriſti in Cruce vox. Ep. 110. SITIO.</head>
+            <l>AH ſitio, clamas, Princeps pulcherrime rerum:</l>
+            <l>Non habeo pro te dulcia vina, ſiti.</l>
+            <l>Tu tamen, ah ſitio, clamas: dabo pocula, Sponſe:</l>
+            <l>Heu mihi! ſed miſto pocula felle dabo.</l>
+            <l>Haec mi Sponſe, bibe: quaeris cui fortè propines?</l>
+            <l>Ad me pro mundi, <hi>Chriſte,</hi> ſalute bibe.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="3" facs="tcp:121283:9"/>
+            <head>
+               <hi>Od. 1. Lib. 1.</hi> When the hatefull forces of the Thracians departed out of <hi>Pannonia.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>He threats of cruell Warre now ceaſe:</l>
+               <l>In ſtead of them ſafety and peace,</l>
+               <l>Baniſh'd th' unhallowed earth, doe pleaſe</l>
+               <l>'Returne in their white Waine;</l>
+            </lg>
+            <lg>
+               <l>Faith joyn'd with Truth, and Plenty too</l>
+               <l>O're pleaſant fields doe nimbly goe;</l>
+               <l>The precious Ages paſt, doe flow</l>
+               <l>With liberall ſtreames againe.</l>
+            </lg>
+            <lg>
+               <l>Cleare dayes, ſuch yeares as were of old</l>
+               <l>Recalled are, o' th' ancient mold,</l>
+               <l>The Heavens hayle Pearles, and molten Gold</l>
+               <l>Doth raine down-right in ſhowres;</l>
+            </lg>
+            <lg>
+               <l>Whilſt I with my Prophetique ſtring</l>
+               <l>Thy Winter feaſtivalls doe ſing,</l>
+               <pb n="5" facs="tcp:121283:10"/>
+               <l>The whole world doth with Ecchoes ring</l>
+               <l>Old <hi>Saturn's</hi> age is ours.</l>
+            </lg>
+            <lg>
+               <l>Our Fathers pure and golden rule</l>
+               <l>Exil'd as farre as fartheſt Thule,</l>
+               <l>Juſtice from bright <hi>Olympus</hi> ſchoole</l>
+               <l>Comes boldly back againe.</l>
+            </lg>
+            <lg>
+               <l>The ſtreams which Milk and Honey yeild,</l>
+               <l>Their paſſage cut through open field,</l>
+               <l>And the full banks with Nectar ſwell'd</l>
+               <l>Doe drowne the flowrie plaine.</l>
+            </lg>
+            <lg>
+               <l>The glad Corne in the reſtles ſtalke</l>
+               <l>Waves, and the fields as wee doe walke,</l>
+               <l>So fruitfull reele, to any balke</l>
+               <l>The Heat no ſpight doth owe.</l>
+            </lg>
+            <lg>
+               <l>The Herdſmans Pipe to's wandring Goats,</l>
+               <l>Provokes the Graſhoppers hoarſe notes;</l>
+               <l>The tyred Herd with ſtrayned throats,</l>
+               <l>Makes Hills and Woods to low.</l>
+            </lg>
+            <lg>
+               <l>The Mountaines leape, and rough Rocks ſmile</l>
+               <l>For gentle Peace rejoyceth ſtill</l>
+               <pb n="7" facs="tcp:121283:11"/>
+               <l>Such ſolitary roomes to fill</l>
+               <l>Hills ſet apart, 'lone Townes.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ceres</hi> with yellow Chaplet, and</l>
+               <l>The Summer rich with eares doth ſtand,</l>
+               <l>Great Prince of our appeaſed Land,</l>
+               <l>Thee to encompaſſe round.</l>
+            </lg>
+            <lg>
+               <l>The Myrtle begs with humble ſhade</l>
+               <l>To ſerve thee, and the Laurel's glade;</l>
+               <l>The lofty Oake doth riſe; Its head</l>
+               <l>The trembling Pine doth bow;</l>
+            </lg>
+            <lg>
+               <l>Hee that o're Starrs and earth hath powre,</l>
+               <l>Beholding us, from his bright Towre,</l>
+               <l>Calms all, and ſets thee father o're</l>
+               <l>The covetous world below.</l>
+            </lg>
+            <lg>
+               <l>The Laurell ſigne long life to thee,</l>
+               <l>Let Fates and deſtinies agree</l>
+               <l>To twine thy thred, which cannot bee</l>
+               <l>Cut 'till th' appointed time.</l>
+            </lg>
+            <lg>
+               <l>May ſhee amidſt thoſe glorious fires,</l>
+               <l>For thy ſake, pittying our deſires,</l>
+               <pb n="9" facs="tcp:121283:12"/>
+               <l>'Bout whom the beauteous ſtarrs inquires,</l>
+               <l>And flowing meaſures ſwim;</l>
+            </lg>
+            <lg>
+               <l>May ſhee, I ſay, our Country's griefe</l>
+               <l>Cure, and the chaſt complaints releive</l>
+               <l>Of all our youth, and willing eares</l>
+               <l>Apply to th' praiers of all our Peeres.</l>
+            </lg>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>To <hi>Aurelius Lycas. Ode 2. Li. 1.</hi> That hee would not complaine too much of adverſe fortune.</head>
+            <l>UNmanly howlings, <hi>Lycuas,</hi> leave,</l>
+            <l>Thy ſad breaſt doe not vex, nor grieve;</l>
+            <l>Thy rugged brow from cloudes ſet free,</l>
+            <l>Although with uſuall beames 'on thee</l>
+            <l>The Sun not ſhines; or fortune late</l>
+            <l>Hath throwne the hardeſt chance of Fate.</l>
+            <l>With th' waves, that South windes toſſe to day,</l>
+            <l>The cheerfull Eaſterne gales will play;</l>
+            <pb n="11" facs="tcp:121283:13"/>
+            <l>The Sun that now hangs downe his head,</l>
+            <l>With joy from bluſhing <hi>Thetis</hi> bed</l>
+            <l>I' th' morne will riſe. Laughter and woe</l>
+            <l>Keepe time, and in their courſes goe.</l>
+            <l>Cleare merriment ſucceeds wet eyes,</l>
+            <l>And joyes in mid'ſt of ſorrows riſe.</l>
+            <l>Thus pleaſeth it the Fates, that flow</l>
+            <l>With various hazards here below.</l>
+            <l>Hee who his Oxen tyr'd, did drive,</l>
+            <l>Doth lawes to day, to th' City give:</l>
+            <l>And the ſame yokes he tooke from thoſe,</l>
+            <l>Upon the Citizens impoſe.</l>
+            <l>The day-ſtarre great, that man doth ſee,</l>
+            <l>Whom th' Evening ſaw in low degree.</l>
+            <l>But if the things that ſerious are</l>
+            <l>With Fortunes paſtimes to compare</l>
+            <l>Doth pleaſe you; See, this Country-man</l>
+            <l>Betakes himſelfe to's farme againe,</l>
+            <l>Of's jeering neighbours th' only ſport,</l>
+            <l>And with thoſe Axes which i' th' Court</l>
+            <l>Hee ruled all with, Cleaves his wood,</l>
+            <l>Whoſe Helves are made of Laurell good.</l>
+            <pb n="31" facs="tcp:121283:14"/>
+            <l>And if a want of wood there growes,</l>
+            <l>The <hi>Faſces</hi> on the fire he throwes.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>To</hi> Tarquinius Lavinus. <hi>Ode</hi> 13. <hi>lib.</hi> 1.</head>
+            <l>AS if the Sun that once doth ſet,</l>
+            <l>From th' bluſhing Eaſt a new birth doth not get;</l>
+            <l>As if that thoſe whom Fortunes frowne</l>
+            <l>By the ſwift violence of her wheele, throwes down,</l>
+            <l>Shee would not raiſe again with eaſe,</l>
+            <l>So active in ſuch nimble ſports as theſe.</l>
+            <l>Deſpaire not (Sir) whoſe footſteps now</l>
+            <l>Thou'rt ſaid to kiſſe, and lick the duſt of's ſhooe,</l>
+            <l>Let Fortune her light wheele but turne,</l>
+            <l>And then <hi>Tarquinius,</hi> thou ſhalt ſoon diſcerne</l>
+            <l>From his proud height, him downward thruſt,</l>
+            <l>His trampled robes ſmoking in mire and duſt.</l>
+            <l>Thy jeeres and laughter then forbeare,</l>
+            <l>His all-beſpattred lookes thou ſhalt nor feare,</l>
+            <l>Nor trample on, remembring how</l>
+            <l>Fortune a doulble ball doth often throw.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="15" facs="tcp:121283:15"/>
+            <head>To <hi>Publius Memmius.</hi> Ode <hi>2.</hi> Lib. <hi>2.</hi> That the ſhortneſſe of mans life is to bee lengthened by good deeds.</head>
+            <l>THe Valleys, now, all clad in gray</l>
+            <l>By Winter, when Sol darts his ray</l>
+            <l>On neighbouring hills, hee'l naked lay,</l>
+            <l>As heretofore.</l>
+            <l>But when the winter of thy yeares</l>
+            <l>With ſnow, within thy locks appeares,</l>
+            <l>When hoary froſt ſhall dye thine haires,</l>
+            <l>It parts no more.</l>
+            <l>Summer, and Autumn's quickly gone,</l>
+            <l>Th' approaching Spring will paſſe as ſoon:</l>
+            <l>Gray hayres, and chilling cold alone</l>
+            <l>With thee will ſtay.</l>
+            <l>To thy ill colour, Nard diſtill'd,</l>
+            <l>Nor the renew'd perfumes o' th' field</l>
+            <l>Of flowres, can any vertue yeild,</l>
+            <l>Or tak't away.</l>
+            <l>Thee, whom thy youth hath giv'n to day,</l>
+            <l>At night old age will take away,</l>
+            <pb n="17" facs="tcp:121283:16"/>
+            <l>Thy time to double, is, to lay</l>
+            <l>A ſame moſt bright.</l>
+            <l>Whom ſnach'd by death, his friends bemone,</l>
+            <l>Hee hath liv'd long. Let every one</l>
+            <l>Write Fames ſole heire: that's free alone,</l>
+            <l>From th' rape of night.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>A Departure from things humane. Ode <hi>5.</hi> Lib. <hi>2.</hi>
+            </head>
+            <l>LIft me up quickly on your wings,</l>
+            <l>Ye Clouds, and Winds; I leave all earthly things,</l>
+            <l>How Devious Hills give way to mee!</l>
+            <l>And the vaſt ayre brings under, as I fly,</l>
+            <l>Kingdomes and populous ſtates! ſee how</l>
+            <l>The Glyſt'ring Temples of the Gods doe bow;</l>
+            <l>The glorious Tow'rs of Princes, and</l>
+            <l>Forſaken townes, ſhrunke into nothing, ſtand:</l>
+            <l>And as I downward looke, I ſpy</l>
+            <l>Whole Nations every where all ſcattred lye.</l>
+            <pb n="19" facs="tcp:121283:17"/>
+            <l>Oh the ſad change that Fortune brings!</l>
+            <l>The riſe and fall of tranſitory things!</l>
+            <l>Here walled townes that threatned Heav'n,</l>
+            <l>Now old and ruin'd, with the earth lye even:</l>
+            <l>Here ſtately Pallaces, that thruſt</l>
+            <l>Their heads i' th' ayre, lye buried all in duſt.</l>
+            <l>Here the Ayre Temp'rate is and mild,</l>
+            <l>But the fierce people ruſh to warres, moſt wild:</l>
+            <l>Here in a joyfull peace they reſt,</l>
+            <l>But Direfull Murraines their quiet fields lay waſt.</l>
+            <l>Here the whole Land doth ſcorching lye</l>
+            <l>Under the glitt'ring Armes o' th' Enemy:</l>
+            <l>Under the hovering ſtroke o' th' Fates</l>
+            <l>The Armies yet both ſtand; and fury waites</l>
+            <l>With doubfull ſteps, upon the warre;</l>
+            <l>Freſh courage here, the mingled troopes prepare,</l>
+            <l>Each againſt other fiercely run,</l>
+            <l>And mutually they worke deſtruction:</l>
+            <l>The ſlaughtered heapes in reeking gore</l>
+            <l>With bloudy covering ſpread the fields all o're:</l>
+            <pb n="21" facs="tcp:121283:18"/>
+            <l>Here on ſafe Seas, as joyfull prize</l>
+            <l>Is ſtrip'd away th' Aegyptian Merchandize,</l>
+            <l>Whilſt the full Havens thick beſet,</l>
+            <l>Doe furiouſly with fierce contention fret.</l>
+            <l>
+               <hi>Mars</hi> hath his divers Cauſes, and</l>
+            <l>His ſeverall faſhion'd weapons to command.</l>
+            <l>From the Adultreſſe ſmiling lookes</l>
+            <l>Pleaſure doth fight, and unto Warre provokes,</l>
+            <l>The doting world with <hi>Helen</hi> burnes.</l>
+            <l>This ſordid man, oh baſe advantage! turnes</l>
+            <l>Revenge of vvords to blowes;</l>
+            <l>Miſchiefe begets it ſelfe, from miſchiefe growes.</l>
+            <l>Small ſins by example higher dare,</l>
+            <l>Nor doth all ſin, alvvaies like ſin appeare.</l>
+            <l>There th' Eaſterne Sea lyes coverd o're</l>
+            <l>With vvarlike Fleets: <hi>Thetis</hi> begins to rore</l>
+            <l>With ſtormes of flaming Braſſe, and here</l>
+            <l>Th' aſtoniſh'd Rocks all trembling ſtand with feare.</l>
+            <l>The troubled Sea vvith vvinds beſet</l>
+            <l>With ſtronger vvaves 'gainſt the full ſhore doth beat.</l>
+            <l>Forbeare, cruell men to multiply</l>
+            <l>With fire, Sword-vvrack your ſingle deſtiny.</l>
+            <pb n="23" facs="tcp:121283:19"/>
+            <l>Is the large Earth too narrovv grovvne,</l>
+            <l>Such ſlaughters, ſuch dire tragedies to ovvne?</l>
+            <l>Large Kingdomes there, brought under thrall</l>
+            <l>With Tumult, ſtagger, and for feare doe fall;</l>
+            <l>Where in one Ruine wee may ſee</l>
+            <l>The dying people all o'rewhelmed lye.</l>
+            <l>The ſilent duſt remaines, to let</l>
+            <l>The weary Pilgrim this Inſcription ſet</l>
+            <l>(In after times, as hee goes by)</l>
+            <l>
+               <hi>King, Kingdome, People here entombed lye.</hi>
+            </l>
+            <l>What ſhould I name the raging Seas,</l>
+            <l>Whole Havens over-flowing, and with theſe</l>
+            <l>I' th' ſudden floud whole Cities drown'd</l>
+            <l>The ſhaken Temples of the Gods that ſound?</l>
+            <l>Kings Pallaces what ſhould I name</l>
+            <l>Now ſunkei' th' deepe, ſmall Cottages i' th' ſame?</l>
+            <l>Vaſt wealth I ſee ſwept downe with th' tyde</l>
+            <l>Rich treaſure in the Ocean floting glyde.</l>
+            <l>The active world t'each others harmes</l>
+            <l>Doth daily fight, and the pale Goddeſſe armes</l>
+            <l>The bloudy ſcene with ſlaughters, warrs,</l>
+            <l>With utter ruins, and with deadly jarrs;</l>
+            <l>Thus there's no <hi>Exit</hi> of our woes,</l>
+            <l>Till the laſt day the Theater ſhall cloſe,</l>
+            <pb n="25" facs="tcp:121283:20"/>
+            <l>Why ſtay I then, when goe I may-</l>
+            <l>To 'a houſe enlightned by the Suns bright ray?</l>
+            <l>Shall I ſtill dote on things humane?</l>
+            <l>Lift up your longing Prieſt, yee Clouds, oh deigne</l>
+            <l>Lift m'up where th' aire a ſplendour yeilds</l>
+            <l>Lights the ſun's chariot through the azure fields.</l>
+            <l>Am I deceived? or doe I ſee</l>
+            <l>The following winds on their wings mounting me,</l>
+            <l>And now againe Great kingdomes lye</l>
+            <l>Whole Nations periſhing before mine eye?</l>
+            <l>The earth which alwayes leſſe hath beene</l>
+            <l>Then's Globe, and now, juſt now can ſcarce be ſeene,</l>
+            <l>Into it's point doth vaniſh, ſee!</l>
+            <l>Oh the brim'd Ocean of the Deitie!</l>
+            <l>Oh Glorious Iſland richly free</l>
+            <l>From the cold Harbours of mortality!</l>
+            <l>Yee boundleſſe ſeas, with endleſſe flouds of reſt</l>
+            <l>Girt round <hi>Sarbinius</hi> your panting Prieſt.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="27" facs="tcp:121283:21"/>
+            <head>
+               <hi>To</hi> Publius Memmius. <hi>Ode</hi> 7. <hi>Lib.</hi> 2.</head>
+            <lg>
+               <l>AMidſt our loſſe it were ſome eaſe,</l>
+               <l>If things did fall, with the ſame ſtay, and leiſure</l>
+               <l>They riſe; but ſudden ruines ſeize</l>
+               <l>On our moſt lofty things, and richeſt treaſure.</l>
+            </lg>
+            <lg>
+               <l>Nothing long time hath happy been.</l>
+               <l>The reſtleſſe Fates of peopled-Cities, paſſe:</l>
+               <l>In a few hour's deſtroy'd w'have ſeen,</l>
+            </lg>
+            <lg>
+               <l>In many yeares what never raiſed was.</l>
+               <l>He gave to Chance long time, that ſaid</l>
+               <l>One day's enough, whole Kingdomes t'overthrow:</l>
+               <l>Each moment holds a people ſwayd</l>
+            </lg>
+            <lg>
+               <l>Under a fatall and exalted blow.</l>
+               <l>Being neere thy death, then, <hi>Publius,</hi> ſpare</l>
+               <l>To load the Gods, with thy blaſphemous plaints;</l>
+            </lg>
+            <lg>
+               <l>That Funeralls ſo frequent are,</l>
+               <l>Or death ſo much thy neighbours houſes haunts.</l>
+               <pb n="29" facs="tcp:121283:22"/>
+               <l>The houre, that firſt to thee gave life,</l>
+               <l>That thou ſhould'ſt likewiſe dye, gave firſt to thee.</l>
+               <l>He hath liv'd long, who well doth ſtrive</l>
+               <l>Sure alwaies of eternall life to bee.</l>
+            </lg>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>To <hi>Aſterius.</hi> Ode <hi>8.</hi> l. <hi>2.</hi>
+            </head>
+            <lg>
+               <l>VV'Are mock'd with 'baytes that fortune fling</l>
+               <l>And fed with th' empty husks of things:</l>
+               <l>Shadowes, not friends we entertaine;</l>
+               <l>W'are pleas'd with the deceitfull traine</l>
+            </lg>
+            <lg>
+               <l>Of words, and thinke them deeds. But when</l>
+               <l>Th' unconſtant wheele ſhall turne agen</l>
+               <l>To th' parting Goddeſſe, wee ſhall ſee</l>
+               <l>Thoſe friends the ſelfe-ſame words deny.</l>
+            </lg>
+            <lg>
+               <l>Things Humane under falſe names pleaſe.</l>
+               <l>Our gifts match not our promiſes;</l>
+               <l>Religion, leſſe to be doth uſe,</l>
+               <l>Then the large language of our vowes.</l>
+            </lg>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="31" facs="tcp:121283:23"/>
+            <head>Out of <hi>Solomon</hi>'s ſacred Ma<g ref="char:EOLhyphen"/>riage Song. Ode <hi>19.</hi> Lib. <hi>2.</hi>
+            </head>
+            <lg>
+               <l>THou ſhunneſt me, like to a fearfull Roe,</l>
+               <l>Which, as the ſtormy North-winds blow,</l>
+               <l>Or the rough noiſe o' th' ſuddaine Eaſterne blaſt,</l>
+            </lg>
+            <lg>
+               <l>Is ſnatch'd away with forceleſſe haſt.</l>
+               <l>For th' early froſt the trembling leaves doth fright,</l>
+               <l>Or elſe the Father of the light</l>
+               <l>Hath hewne from th' ecchoing rocks his thundring darts,</l>
+            </lg>
+            <lg>
+               <l>Hee haſtens with ſuch doubtfull ſtarts.</l>
+               <l>But till I find thee, I' le not ceaſe, nor reſt,</l>
+               <l>But cry aloud, Returne, ô Chriſt:</l>
+               <l>And when with ſwifter ſpeed thou fly'ſt away,</l>
+            </lg>
+            <lg>
+               <l>Returne againe, ô Chriſt, I' le ſay.</l>
+               <l>The tops of <hi>Lebanus,</hi> ſo green and gay,</l>
+               <l>The faire tilths of <hi>Beshulia,</hi>
+               </l>
+               <pb n="33" facs="tcp:121283:24"/>
+               <l>Encompaſſe thee, old <hi>Salem</hi>'s fruitfull Land,</l>
+            </lg>
+            <lg>
+               <l>Or elſe <hi>Capharnia</hi> low doth ſtand.</l>
+               <l>At length give o're thy ſad and carefull flight:</l>
+               <l>Thou ſhalt not ſcape me, th' evening bright</l>
+               <l>With its ſo watchfull Centry, thee'l betray,</l>
+            </lg>
+            <lg>
+               <l>And th' Moone with golden hornes doth ſtray.</l>
+               <l>By th' grones of the neglected ſhores I' le find</l>
+               <l>Thee; and by th' ſighs o' th' Weſterne wind;</l>
+               <l>Thee the night's watch, the ſtarrs that walke about</l>
+               <l>With lively ſignes will point thee out.</l>
+            </lg>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>Dirae</hi> in <hi>Herodem.</hi> Ode <hi>24.</hi> Lib. <hi>2.</hi>
+            </head>
+            <l>THou Curſed off-ſpring of that ſacred place!</l>
+            <l>Thou fatall monſter of prodigious race!</l>
+            <l>A Libyan Lyoneſſe in ſome Affrick den</l>
+            <l>Gave nouriſhment to thee, thou ſhame of men,</l>
+            <l>Or mungrill Libard with a ſhee-Tiger, hurl'd-</l>
+            <l>Thee, with a miſchiefe, into th' hatefull world,</l>
+            <pb n="35" facs="tcp:121283:25"/>
+            <l>Heyre to the fury of thy Syre, and damm;</l>
+            <l>Or ſome wild Wolfe left thee a naked ſhame:</l>
+            <l>Under a huge hard rock: ſome angry ſtorme,</l>
+            <l>From waves, with things ſo full of divers forme,</l>
+            <l>For birds and beaſts, ſpew'd th' up a banefull prey;</l>
+            <l>The Marble quarry, 'mid'ſt the raging Sea,</l>
+            <l>It's rigid veynes, from thy rough boſome drew;</l>
+            <l>Marble, from thoſe rocks hewne, <hi>Deucalion</hi> threw</l>
+            <l>Over <hi>Gaetulian</hi> fields: <hi>Megaera</hi> firſt</l>
+            <l>Fix'd th' in thy regall ſeat, on thee accurſt</l>
+            <l>Then <hi>Tiſiphon</hi> the Scepter did beſtow,</l>
+            <l>And ſet the Diadem on thy ſavage brow.</l>
+            <l>And as thy princely Ivory, of late</l>
+            <l>Thou proudly lean'dſt upon, cloſe by thee ſate</l>
+            <l>With ſtately columnes prop'd, fell tyrannie,</l>
+            <l>Her Enſignes, who through <hi>Paleſtine</hi> let fly:</l>
+            <l>And her black ſword with bloudy trembling hand</l>
+            <l>Did brandiſh round, when ſtraight at her command</l>
+            <l>Hatreds, and ſtrifes appear'd, murder and rage</l>
+            <l>The horrid ruine of the new-borne age,</l>
+            <pb n="37" facs="tcp:121283:26"/>
+            <l>Shee drew along; Tumultuous madneſs, all</l>
+            <l>The ſlaughter'd peoples unjuſt funerall:</l>
+            <l>Each famous kingdome, inexhauſted towne</l>
+            <l>In a large ſtreame of bloud by her o're-throwne.</l>
+            <l>Next followed Her, the plaints, and direfull grones</l>
+            <l>Of ſighing parents, rob'd of their little ones,</l>
+            <l>Whole tydes of teares, ſobs, and lamentings great</l>
+            <l>And mourning in each corner of the ſtreet.</l>
+            <l>But if this ſhow'r, from this ſad cauſe begun,</l>
+            <l>In too too narrow rivulets doth run;</l>
+            <l>Why doe revenging ſtormes ſo much delay</l>
+            <l>To back the rayne? what doth their fury ſtay?</l>
+            <l>Why doth the ſhaken sky with ruſtling noiſe.</l>
+            <l>Of the Sun's chariot, bridle in the voice</l>
+            <l>Of the ſlow thunder? why the lightning ſtop</l>
+            <l>From breaking through the clouds with hideous clap?</l>
+            <l>Thoſe ayrie feather'd arrowes in the darke</l>
+            <l>That ſtray, why do they ſpare their curſed marke?</l>
+            <l>
+               <hi>Acroceraunia</hi> with his three-fork'd flame,</l>
+            <l>And that huge Hill the Thracian Queen gave name,</l>
+            <pb n="39" facs="tcp:121283:27"/>
+            <l>
+               <hi>Aemathia's</hi> craggy trembling rocks may paſſe</l>
+            <l>Guiltleſſe; they have not ſin'd at all, alaſſe!</l>
+            <l>Unleſſe their Marble, with a prodigious birth,</l>
+            <l>This direfull Monſter teem'd, t'infeſt the earth:</l>
+            <l>Breake then the mountaines, break yee lightnings,</l>
+            <l>Throw headlong downe ye fruitfull rocks of Kings.</l>
+            <l>May hee exſpire! oh may the murth' rer fall!</l>
+            <l>Moſt execrable, cruell, tragicall!</l>
+            <l>Upon his kingdom's pile, and flaming yew</l>
+            <l>Let his high carkaſſe blaze; the ayre anew</l>
+            <l>May th' monſter purge from his infectious breath,</l>
+            <l>The mocke of wrangling furyes, and of death.</l>
+            <l>Oh breake your entrayles, ſluggiſh earth, and downe</l>
+            <l>Let the high ruins of the rocks be throwne;</l>
+            <l>'Gainſt which the waves o' th' raging Sea may rore</l>
+            <l>And <hi>Nerens</hi> with his Quickſands Boyling o're:</l>
+            <l>Wee're heard. The climbing ſurges ſtrike the ſtars</l>
+            <l>And the big Ocean all her ſtrength prepares;</l>
+            <l>Her foame, and ſlimy mud ſh'hath heap'd together</l>
+            <l>Devouring waves toſs'd with the worſt of weather:</l>
+            <pb n="41" facs="tcp:121283:28"/>
+            <l>The firmament doth ſhake, &amp; Hell ſo neere</l>
+            <l>Through the earths large chinks, which gapeth doth appear:</l>
+            <l>The ſhatt'red world now falls on's impious head,</l>
+            <l>Goe, Tyrant with thy death unpardoned,</l>
+            <l>Even Hell it ſelfe pollute, poſſeſſe, alone,</l>
+            <l>
+               <hi>Cocytus,</hi> and ſulphureous <hi>Acheron.</hi>
+            </l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>Out of <hi>Solomons</hi> ſacred Marriage Song. <hi>Cant. 2.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <l>Stay me with flagons, &amp;c.</l>
+                  <l>I charge O yee daughters of <hi>Jeruſalem,</hi> that yee ſtirre not up, nor wake, &amp;c.</l>
+                  <l>Behold hee commeth leaping upon the Mountaines &amp;c.</l>
+                  <bibl>
+                     <hi>ODE 25. LIB. 2.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <l>STay mee with ſaffron, underneath me ſet</l>
+            <l>Full banks of Roſes, beds of violet;</l>
+            <l>Refreſh mee with the choiceſt fruit, and ſpread</l>
+            <l>The whiteſt Lillies round about my head:</l>
+            <l>For the delay of the ſcene-pow're divine</l>
+            <l>In ſacred flames, conſumes this breaſt of mine,</l>
+            <l>Yee Daughters of that holy Citie, yee!</l>
+            <l>Yee Siſters! I, 'tis I, that humbly pray!</l>
+            <pb n="43" facs="tcp:121283:29"/>
+            <l>O, I, intreat you, by each Hind, and Roe,</l>
+            <l>That ſtraying o're the tops of Hills doe goe,</l>
+            <l>Yee ſtock of ancient <hi>Iſaac,</hi> yee that move</l>
+            <l>With nimble foot through <hi>Lebanus</hi> ſweet grove,</l>
+            <l>O're <hi>Carmels</hi> fragrant top! yee Nymphs ſo faire</l>
+            <l>The glory of the noble Hills that are,</l>
+            <l>Moleſt not my beloved with your cryes,</l>
+            <l>Amongſt the twining Violets that lyes:</l>
+            <l>Doe not with claps of hands, or noiſe of feet,</l>
+            <l>Awake her, from her carefull ſlumbers yet:</l>
+            <l>Untill my Spouſe, of her owne ſelfe, ſhall riſe</l>
+            <l>And wipe away the ſoft ſleep, from her eyes;</l>
+            <l>Untill the golden day-ſtarre ſhall releaſe</l>
+            <l>All things from ſilent reſt, and gentle peace.</l>
+            <l>Behold from tops of yonder hills doth come</l>
+            <l>The bleſſed off-ſpring of's faire mothers womb,</l>
+            <l>The only iſſue of's bright father too,</l>
+            <l>On the thick tops o' th' groves doth leaping goe,</l>
+            <l>The unſhorne head of <hi>Lebanus</hi> ſo hye</l>
+            <l>Hee leaps, and the great backs of Mountaines by,</l>
+            <pb n="45" facs="tcp:121283:30"/>
+            <l>The ſtately dwellings of the woods hee skips,</l>
+            <l>And down again with nimble foot hee trips:</l>
+            <l>Like to a frighted, and ſwift running Roe,</l>
+            <l>Beholding Lions in a vale below,</l>
+            <l>With an amazed haſte, and deep fetch'd breath</l>
+            <l>Through uncouth places runs t'eſcape his death.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>To <hi>Egnatius Nollius.</hi> That we ought to be of an even and upright mind, againſt the inconſtancy of fortune. Ode 4. Lib. 3.</head>
+            <l>ARt thou blow'n on, with gentle gale,</l>
+            <l>Or in rough waters forc'd to ſayle?</l>
+            <l>Still conquer Fortune, make but ſports</l>
+            <l>Of her, and her uncertain Arts.</l>
+            <l>Laughs ſhee? turne bravely away thy face.</l>
+            <l>Weeps ſhee? bring't back, with ſmiling grace:</l>
+            <l>When ſhee's moſt buſie, be thou than</l>
+            <l>Retyr'd, and alwayes thine own man.</l>
+            <pb n="47" facs="tcp:121283:31"/>
+            <l>Thus cloſe ſhut up, thine owne free ſtate</l>
+            <l>Thou beſt mayſt rule, chiefe Magiſtrate;</l>
+            <l>When the fierce Fates ſhall moſt moleſt,</l>
+            <l>The ſerene palace of thy breſt.</l>
+            <l>When light miſchance, thy fort, or thee</l>
+            <l>Shall viſit; meet it merrily:</l>
+            <l>Good luck, and peace, in that houſe ſtay</l>
+            <l>Where mourning, firſt, hath led the way.</l>
+            <l>In dext'rous chance, this hurt we ſee,</l>
+            <l>It makes us ſoft: Extremity-</l>
+            <l>This, proſperous hath, whereſoe're it hits,</l>
+            <l>It hardens, and for danger fits.</l>
+            <l>The griefe that hath been of ſuch length,</l>
+            <l>Doth' bate its violence and ſtrength.</l>
+            <l>By bearing much, make fortune free;</l>
+            <l>Shee learnes, by cuſtome, light to be.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="49" facs="tcp:121283:32"/>
+            <head>To <hi>Marcus Silicernius.</hi> That thoſe are the true riches which are fetch'd from the goods of the mind. Ode 6. lib. 3.</head>
+            <l>A Raſh believer of their tickliſh play,</l>
+            <l>With Fates, I ne're joyn'd greedy hands in haſt,</l>
+            <l>From the ſtrict courſe of private jarres, that they</l>
+            <l>With mee, in ſuch an equall peace ſhould reſt.</l>
+            <l>I know not what to morrow's fortune brings</l>
+            <l>Heire to my ſelfe alone. The wealth ſhe gave</l>
+            <l>Lyes in my outmoſt roomes, 'mongſt worſt of things;</l>
+            <l>Which, without force, ſhe may for taking have.</l>
+            <l>Things can be ta'ne away, I ne're thought mine;</l>
+            <l>Not poorer I, if mine owne ſelfe compleat.</l>
+            <l>I kingdome, <hi>Marcus,</hi> of my ſelfe I find</l>
+            <l>If the great cuſtome of mine owne eſtate-</l>
+            <l>Within me I could in juſt numbers caſt.</l>
+            <l>A great part of my mind lyes cloſe, more wide</l>
+            <pb n="51" facs="tcp:121283:33"/>
+            <l>Then the rich Indyes are, to which at moſt</l>
+            <l>But thrice a yeare, we can but ſayle or ride</l>
+            <l>But my rich mind, oft to it ſelfe a gueſt,</l>
+            <l>By its owne ſelfe is daily viſited;</l>
+            <l>Not 'bout to buy Toyes for a roome, or feaſt,</l>
+            <l>If of its ſelfe it's ſeen, it's richly fed.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>To <hi>Aurelius Fuſcus.</hi> That all humane things are fraile and uncertaine. <hi>Ode</hi> 12. <hi>Lib.</hi> 3.</head>
+            <l>IF the firſt barke, <hi>Fuſcus,</hi> thou would'ſt but pare</l>
+            <l>From empty things, the reſt will flow,</l>
+            <l>And vaniſh quite like vernall ſnow;</l>
+            <l>Which melts away, with the mild breath o' th' ayre.</l>
+            <l>Valour from beauty ſever'd, ſlowly moves.</l>
+            <l>Meere outſides pleaſe: had <hi>Paris</hi> ſeene</l>
+            <l>Faire <hi>Helens</hi> heart, how foule't had beene,</l>
+            <l>How ill requiting to the <hi>Trojan</hi> Loves,</l>
+            <pb n="53" facs="tcp:121283:34"/>
+            <l>Ne're, through the midſt of <hi>Nereus</hi> broyles, had hee</l>
+            <l>Or the winds anger, borne away</l>
+            <l>O' th' Grecian bed that beauteous prey.</l>
+            <l>But Nature's Lord, the mutuall yoke, we ſee,</l>
+            <l>Of things hath ord'red well, that black with white,</l>
+            <l>Sad things with joyfull cov'red lye.</l>
+            <l>And from this various mixture, hee</l>
+            <l>The beſt would chooſe, from Heav'n muſt learne the right,</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>To Caeſar Pauſilipius.</hi> The kingdome of a wiſe man. Ode <hi>3.</hi> Lib. <hi>4.</hi>
+            </head>
+            <l>THe large-commanding Thracians wee</l>
+            <l>Have fear'd. More large command hath hee,</l>
+            <l>Who all alone himſelfe retyres,</l>
+            <l>And keepes ſure guard o're his deſires.</l>
+            <l>Thy unwarlike breaſt, with ſhield of proofe</l>
+            <l>Forbeare to fortifie; throw off</l>
+            <pb n="55" facs="tcp:121283:35"/>
+            <l>From thy unpractic'd ſides the ſhirt</l>
+            <l>O Mayle, ſo hard about thee girt.</l>
+            <l>Let not the Quiver and the bow</l>
+            <l>Such homage to thy ſoft neck doe.</l>
+            <l>Whether't bee <hi>Dane,</hi> or <hi>Pict,</hi> ta'ne out</l>
+            <l>From fartheſt <hi>Brittaine,</hi> hems th' about</l>
+            <l>Or <hi>Goth,</hi> ne're labour much to know</l>
+            <l>Thine owne Commander, Champion too.</l>
+            <l>Wee are 'tis true a kingdome ſmall;</l>
+            <l>But, <hi>Panſilipius,</hi> hee that ſhall</l>
+            <l>His flatt'ring ſelfe, t' himſelfe ſubdue,</l>
+            <l>A buſineſſ great doth undergoe;</l>
+            <l>If his owne lawes hee can perſwade,</l>
+            <l>And doth performe them being made.</l>
+            <l>An hoſt, makes no Kings title good,</l>
+            <l>Nor Robes deepe dy'd in peoples blood,</l>
+            <l>A high brow ſet with ſtarrs of gold,</l>
+            <l>Or Jems more glorious to behold.</l>
+            <l>Hee who hath tam'd all coward feares,</l>
+            <l>And his owne Guard himſelfe prepares,</l>
+            <l>Who practic'd, in faire combate, firſt</l>
+            <l>Dares Chance and Fortune do their worſt;</l>
+            <l>That man's a King. Hee doth not faine</l>
+            <l>His lookes to th' votes o' th' vulgar ſtraine,</l>
+            <pb n="57" facs="tcp:121283:36"/>
+            <l>The popular ſtage, and publike ſhowes</l>
+            <l>Ne're moves him, nor the ayre that blowes</l>
+            <l>With ſwift applauſe; Hee's bleſt whoſe ſprite,</l>
+            <l>Fall Fortune ſad, or fall ſhe light,</l>
+            <l>Hath ne're expreſt, to th' ſtanders by,</l>
+            <l>A low complaint, or haughty cry;</l>
+            <l>But, leſt the curious Fates diſpleaſe-</l>
+            <l>Hee ſhould, holds modeſtly his peace.</l>
+            <l>At's firſt wounds, who nor grones, nor quakes,</l>
+            <l>A Conqueſt with his ſilence makes:</l>
+            <l>Hee that miſchance knowes how to hide,</l>
+            <l>The worſt of ills, can beſt abide.</l>
+            <l>Hee, though the Sea ſhould every where</l>
+            <l>Hang up its waves i' th' flitting ayre;</l>
+            <l>And the rough winds on him, ſhould preſſe</l>
+            <l>Flames mix'd with billowes, nay whole Seas,</l>
+            <l>From the high Court of's lofty mind</l>
+            <l>I' th' midſt o' th' ruine, ſport can find;</l>
+            <l>Sets to his neck to th' falling skye,</l>
+            <l>And props the world moſt valiantly:</l>
+            <l>To the now gaſping Age ſafe heyre,</l>
+            <l>Leans on the Earth' s ſad ſepulchre,</l>
+            <pb n="59" facs="tcp:121283:37"/>
+            <l>Whence, 'midſt the fragments of the skye,</l>
+            <l>Hee ſees moſt clearly from on hye,</l>
+            <l>How much more great thoſe things appeare,</l>
+            <l>Hee treads on, then indeed they are,</l>
+            <l>Being then prepar'd, and ready dreſt</l>
+            <l>To dye <hi>Olympus</hi> certaine gueſt.</l>
+            <l>Where, when by th' Fates hee's gladly brought,</l>
+            <l>Whether diſeaſe, it matter's not,</l>
+            <l>Or enemies ſword, doth thruſt him on,</l>
+            <l>When his laſt journey he muſt run.</l>
+            <l>To th' Port wee are but once brought in</l>
+            <l>To which w'have alwayes ſayling bin:</l>
+            <l>Whether, as mighty-Princes, wee</l>
+            <l>In gallant ſhips have ſpread the Sea;</l>
+            <l>Or, as the common ſort of men,</l>
+            <l>In ſmaller Barks, have carryed been.</l>
+            <l>May my poore bottome to that brinke</l>
+            <l>Mee happy bring; why ſhould I ſhrinke-</l>
+            <l>Safe on th' Aeternall ſhore to ſtand,</l>
+            <l>If with ſuch traſh I can ſhake hand?</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="61" facs="tcp:121283:38"/>
+            <head>To <hi>Q. Dellius.</hi> That our life ought not to bee inſtituted ſo much by popular example, as by the guiding of reaſon. Ode <hi>10.</hi> Lib. <hi>4.</hi>
+            </head>
+            <l>WEE erre (my <hi>Dellius</hi>) if wee take</l>
+            <l>That baſer path of life, the people make;</l>
+            <l>In higheſt and remoteſt Hills</l>
+            <l>Vertue ſequeſters up her ſelfe, and dwells.</l>
+            <l>There where the way more beaten lyes,</l>
+            <l>Leſſe certaine, and more ſlipp'ry alwayes 'tis.</l>
+            <l>From fruitleſſe order, errours grow;</l>
+            <l>Cuſtome, not reaſon, drawes the people now.</l>
+            <l>Men live by Chance, our time we ſpend</l>
+            <l>I' th' way, like Truants, and forget the end,</l>
+            <l>Where 'mid'ſt the throng of paſſers by,</l>
+            <l>The noyſe of the mad rout, the hatefull cry</l>
+            <l>Of envy, calls, wee're drawne amaine</l>
+            <l>B' example; others wee draw back againe;</l>
+            <pb n="63" facs="tcp:121283:39"/>
+            <l>No man is ill to himſelfe alone,</l>
+            <l>Nor no mans life is onely call'd his owne:</l>
+            <l>Whil'ſt that the rambling rout treads o're</l>
+            <l>With after ſteps, the heeles of them before,</l>
+            <l>They that goe formoſt are deſign'd</l>
+            <l>A miſchiefe oft to thoſe that come behind.</l>
+            <l>
+               <hi>Pernaſſus,</hi> and chaſte <hi>Helicon</hi>
+            </l>
+            <l>Sublimes and takes mee from the vulgar throng:</l>
+            <l>From whence, the falſe miſtakes I view</l>
+            <l>And wandring mindes of the too ſlothfull crew;</l>
+            <l>And from on hye I feareleſſe ſee,</l>
+            <l>With ſport, the dangers that below me lye;</l>
+            <l>Thus warily with joy I live,</l>
+            <l>And by, other mens miſchances I can thrive,</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>To Sigiſmundus Laetus.</hi> Hee Commends the deſpiſing of vaine-glory, and ſilence. <hi>Od. 11. Lib. 4.</hi>
+            </head>
+            <l>VVHy fleeting glory follow wee,</l>
+            <l>
+               <hi>Laetus,</hi> with weapons all in vaine?</l>
+            <l>When like a Moore, or Parthian, ſhee</l>
+            <l>Flyes at her backe with wounded Trayne.</l>
+            <pb n="65" facs="tcp:121283:40"/>
+            <l>The Talking-peoples love, denyes</l>
+            <l>Under one roofe a gueſt to fix:</l>
+            <l>With' s empty eare, one takes up lyes,</l>
+            <l>And them with truths, doth ſub 'ly mix,</l>
+            <l>Another ſticks, and thinkes to build</l>
+            <l>His neſt: but when he plainly ſees</l>
+            <l>His empty breaſt with noiſe beguild,</l>
+            <l>Aloft with ſilent wings, hee flees.</l>
+            <l>True praiſe would not be knowne; the Sun</l>
+            <l>Forbids from being ſeen below</l>
+            <l>By his own light: and hee that can</l>
+            <l>Ecclipſe himſelfe, doth brighter ſhow.</l>
+            <l>Hee that in ſilence, of his mind</l>
+            <l>The ſacred Treaſury containes;</l>
+            <l>Safety i' th' vulgar noyſe doth find:</l>
+            <l>In's doubtfull Court, and wiſely raignes.</l>
+            <l>Still banks thy Pinnace well may paſſe,</l>
+            <l>But when with hoarſe rocks they do roare,</l>
+            <l>Remember wiſely to forecaſt</l>
+            <l>And turn 't aſide with wary Oare.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="67" facs="tcp:121283:41"/>
+            <head>To <hi>Ianus Libinius.</hi> Hee excuſes his retyredneſſe. Ode 12. Lib. 4.</head>
+            <l>VVHat 'tis detaines me here, and why-</l>
+            <l>I hide my ſelfe from every eye,</l>
+            <l>How in ſo poore a houſe I ſpend</l>
+            <l>My houres, y' have often ask'd me, friend;</l>
+            <l>When the free Courts of free-borne men,</l>
+            <l>Fall out, which firſt ſhall let me in.</l>
+            <l>I enjoy my ſelfe, what need I more?</l>
+            <l>Of every ſenſe I lock the dore;</l>
+            <l>And cloſe ſhut up, a taske I find</l>
+            <l>In the retyring houſe o' th' mind:</l>
+            <l>The Theatre of my life I view</l>
+            <l>My owne ſpectator and iudge too-</l>
+            <l>Whether the tale I firſt begun</l>
+            <l>In well digeſted Acts I' ue ſpun;</l>
+            <l>In every ſcene, if every clauſe</l>
+            <l>Goes neatly off, with heav'ns applauſe:</l>
+            <l>Each Action ſcan'd, is there ſet free</l>
+            <l>Or ſentenc'd by authoritie-</l>
+            <pb n="69" facs="tcp:121283:42"/>
+            <l>If there, with <hi>well Done</hi> I eſcape,</l>
+            <l>I' me bleſt without the peoples clap.</l>
+            <l>I hate the common road of praiſe,</l>
+            <l>Or what the gaping vulgar raiſe,</l>
+            <l>Which with a pleaſant gale awhile</l>
+            <l>Fame hurries, but doth ſoone beguile:</l>
+            <l>Now Envie's ſting it feeles, ere long</l>
+            <l>Th' Artillery of ſome ſpightfull tongue:</l>
+            <l>Thus chac'd, with weak'ned wings it dyes;</l>
+            <l>Or torne, on the bare ground it lyes.</l>
+            <l>A private fame, a meane houſe, where</l>
+            <l>I live conceal'd from popular ayre,</l>
+            <l>Beſt fits my mind, and ſhelters me:</l>
+            <l>Vertue t' her owne praiſe deafe ſhould be.</l>
+            <l>Our emulation, things a farre off command,</l>
+            <l>But Envy haunts things that are neere at hand.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="71" facs="tcp:121283:43"/>
+            <head>To <hi>Caeſar Pauſilippius.</hi> That adverſity is to bee endured with a conſtant mind. <hi>Ode 13. l. 4.</hi>
+            </head>
+            <l>IF mournfull eyes could but prevent</l>
+            <l>The evils they ſo much lament</l>
+            <l>Sidonian Pearles, or Gems more rare,</l>
+            <l>Would be too cheap for ev'ry teare.</l>
+            <l>But moyſt'ned woes grow freſh, and new,</l>
+            <l>As Corne beſprinkled with the dew.</l>
+            <l>Teare followes teare, and fruitfull griefe</l>
+            <l>Hath from it ſelfe, its owne reliefe.</l>
+            <l>The man whom Fortune doth eſpy</l>
+            <l>With drooping ſpirit, and moyſt'ned eye,</l>
+            <l>Shee, often ſtrikes; ill Fate, amaine</l>
+            <l>Runs Scarr'd no notice being ta'ne.</l>
+            <l>Bewayle not then thy ſelfe, deare friend,</l>
+            <l>Or evills that on thee attend;</l>
+            <pb n="73" facs="tcp:121283:44"/>
+            <l>What they expell, teares cheriſh oft;</l>
+            <l>Hard things deny to yeild to ſoft.</l>
+            <l>Miſchance is conquered, when ſhe ſpies</l>
+            <l>A valiant patience with dry eyes.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>To <hi>Criſpus Laevinius.</hi> Being asked why hee ſung ſo often as hee travailed, hee anſwers. Ode 44. Lib. 4.</head>
+            <l>AS cheerefully I walke with thee,</l>
+            <l>My ſhoulders from all burdens free,</l>
+            <l>Our native ſoyle again to ſee</l>
+            <l>Rich to my ſelfe I ſing,</l>
+            <l>Whil'ſt care ſtrikes thee, and thy Muſe dumb,</l>
+            <l>The heavy weight of thy vaſt ſumme,</l>
+            <l>Or what eſtate in time to come</l>
+            <l>The faithleſſe rout may bring.</l>
+            <l>Hee's rich that nothing hath; Hee that</l>
+            <l>In's certaine hand holds his eſtate,</l>
+            <pb n="75" facs="tcp:121283:45"/>
+            <l>That makes himſelfe his conſtant mate</l>
+            <l>Where need commands him go;</l>
+            <l>What can I want, that nought deſire?</l>
+            <l>Then <hi>Pindus</hi> vale, I reach no higher:</l>
+            <l>O ſacred Grove! O pleaſant quire</l>
+            <l>In thoſe coole ſhades below!</l>
+            <l>What paths ſoe're my ſteps invite</l>
+            <l>Ye Delphian hills, my ſole delight</l>
+            <l>Doe goe with mee; in weary plight,</l>
+            <l>And veyle me with good grace.</l>
+            <l>Let th' <hi>Goth</hi> his ſtrongeſt chaines prepare,</l>
+            <l>The <hi>Scythian</hi> hence mee captive teare,</l>
+            <l>My mind being free with you, I' le ſtare</l>
+            <l>The Tyrants in the face.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>To Munatius.</hi> That nothing in humane affaires is not full of tediouſneſſe. <hi>Ode</hi> 15. <hi>l.</hi> 4.</head>
+            <l>NOthing <hi>Munatius,</hi> nothing I ſing't againe,</l>
+            <l>That's mortall, nothing from th' uncured paine</l>
+            <l>Of tediouſneſſe is free. The Sun</l>
+            <l>Which bright to our forefathers ſhone</l>
+            <pb n="77" facs="tcp:121283:46"/>
+            <l>To us, but little healthfull, doth appeare,</l>
+            <l>And though not guilty of one ſpott, not cleare:</l>
+            <l>Whatſoe're immortall thing we ſee</l>
+            <l>In high <hi>Olympus,</hi> ſilly wee</l>
+            <l>Doe over-caſt with Envy's ſhade; here one</l>
+            <l>From his owne native Hills the riſing Sun</l>
+            <l>Diſclaimes; or th' ancient Moone, that ſtrikes</l>
+            <l>Her beames through's fathers glaſſe, diſlikes.</l>
+            <l>Each yeare we change our ayre, and ſoyle, ſo light;</l>
+            <l>Him, <hi>Hollands</hi> warmer Climate doth invite:</l>
+            <l>Another differs, and doth cry</l>
+            <l>
+               <hi>Auſonia</hi>'s clearer Suns pleaſe mee.</l>
+            <l>In vaine all this, if faithfull ſickneſſes</l>
+            <l>Wait cloſe behind; if ſecret griefes ne're ceaſe,</l>
+            <l>All's one, whether in Chariot</l>
+            <l>Thou goeſt, or in Venetian boat.</l>
+            <l>Poore exiles! then, things left doe pleaſe us moſt,</l>
+            <l>Who a ſure building can from vertue boaſt,</l>
+            <l>To him the ſmoke of's father's Hall</l>
+            <l>Doth never hurt his eyes at all.</l>
+            <pb n="79" facs="tcp:121283:47"/>
+            <l>Vertue oft-times, rich in a ruſtick eaſe</l>
+            <l>Confines her ſelfe to her owne private bliſſe;</l>
+            <l>And in the guiltleſſe ſtraw, her throne</l>
+            <l>With great delight can leane upon.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>Out of</hi> Solomon<hi>'s ſacred Marriage Song. CHAP. 1. 7.</hi> Tell mee (ô thou whom my ſoule loveth) where thou feedeſt, where thou makeſt thy flocks to reſt at noone, &amp;c. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Od. 19. Lib. 4.</hi>
+            </head>
+            <l>THou ſaid'ſt, farewell my Spouſe, &amp; went'ſt away</l>
+            <l>More fleet then Clouds with liquid paces ſtray:</l>
+            <l>Oh what a longing, Jeſu thus</l>
+            <l>With thy delay thou mak'ſt in us?</l>
+            <l>'Tis now high noone, the ſcorching Sun doth burne</l>
+            <l>I' ch' mid'ſt o' th' pole, the mower ſpares the corne,</l>
+            <l>The Shepheard, with his flocks, is glad-</l>
+            <l>And painted birds, to ſeeke coole ſhade.</l>
+            <pb n="81" facs="tcp:121283:48"/>
+            <l>But Jeſu! where at thou? what region's bleſt</l>
+            <l>By holding thee ſo long in ſilent reſt?</l>
+            <l>What darkſome ſhade denyes my love?</l>
+            <l>Or with thick boughs what ſhady Grove?</l>
+            <l>Knew I on what green Turfe thou doſt repoſe</l>
+            <l>Thy fainting limbs; what wind with ſoft breath blowes'</l>
+            <l>What ſtreame, with bubling, paſſing by</l>
+            <l>Diſturbs thy ſleep, or wakens thee;</l>
+            <l>Oh! leſt the too much noiſe ſhould raiſe thee, I</l>
+            <l>Would let fall ſtreams of teares ſhould qualifie;</l>
+            <l>My warmer ſighes thou mix'd ſhould'ſt find</l>
+            <l>With the cold blaſts o' th' Eaſterne wind.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="83" facs="tcp:121283:49"/>
+            <head>
+               <hi>Out of</hi> Salomon<hi>'s ſacred marriage ſong.</hi> My beloved ſpake and ſaid unto mee, riſe up my love, my Dove, my faire one, and come a<g ref="char:EOLhyphen"/>way; for loe the winter is paſt, the raine is over and gone: the flowers appeare on the earth, the time of ſinging of birds is come, and the voice of the Turtle is heard in our Land. The figtree putteth forth, &amp;c. Ode <hi>21.</hi> Lib. <hi>4.</hi>
+            </head>
+            <l>DOe I miſtake? or from Elyzium cleare</l>
+            <l>My life's call doe I heare?</l>
+            <l>Siſter ariſe, and harneſſe thy ſweet paire</l>
+            <l>Of Doves, thy ſelfe more faire;</l>
+            <l>Mount and drive hither, here let thy Chariot ſtop,</l>
+            <l>From <hi>Libanus</hi> hye top;</l>
+            <l>At thy approach the falling ſhowres doe fly,</l>
+            <l>Tempeſtuous ſtormes paſſe by,</l>
+            <l>The lightning's quench'd under thy harmleſſe feet,</l>
+            <l>Winter turnes Spring to ſee't.</l>
+            <pb n="85" facs="tcp:121283:50"/>
+            <l>While in the ſacred Green, a bow're we ſee</l>
+            <l>Doth ſpread it ſelfe for thee.</l>
+            <l>The Earth new Turff's it ſelfe for thee to tread,</l>
+            <l>The ſtraying ſtarrs freſh fields make glad.</l>
+            <l>Here with their dams, of Kids th' amazed flocks</l>
+            <l>Hang on ſteep ſides of Rocks;</l>
+            <l>Here as they ſwim, the wanton Hinds do play</l>
+            <l>In the coole ſtreames all day.</l>
+            <l>The Lion with the Libard downe is l'ed</l>
+            <l>Tame and well governed;</l>
+            <l>Each with his Lamb about the Mountaines skip,</l>
+            <l>O're Hills they lightly trip.</l>
+            <l>By theſe a ſpacious brooke doth ſlowly glide,</l>
+            <l>Which with a ſpreading tyde</l>
+            <l>Through bending Lilyes, banks of Violets</l>
+            <l>From th' hollow Pumice ſweats.</l>
+            <l>The rivers gently flow, and a ſtill ſound</l>
+            <l>From moſſie Rocks doth bound.</l>
+            <l>The ſporting fiſh dance in the chriſtall Mayne,</l>
+            <l>The Birds ſweetly complaine,</l>
+            <l>The ayre, if dolefull comforts pleaſe, doth ring</l>
+            <l>with mournfull murmuring.</l>
+            <pb n="87" facs="tcp:121283:51"/>
+            <l>For when the Doves eccho each others cry</l>
+            <l>That ſound doth hither fly.</l>
+            <l>As they with widowed notes themſelves do pleaſe,</l>
+            <l>Juſt ſo, our joyes increaſe.</l>
+            <l>No want appeares; th' officious Vine doth ſtand</l>
+            <l>With bending cluſters to our hand.</l>
+            <l>Here, thou ſhalt pick ſweet Violets, and there</l>
+            <l>Freſh Lillyes all the yeare:</l>
+            <l>The Apple ripe drops from its ſtalke to thee,</l>
+            <l>From taſt of death made free.</l>
+            <l>The luſcious fruit from the full Figtree ſhall</l>
+            <l>Into thy boſome fall.</l>
+            <l>Meane while, the Vine no pruning knife doth know,</l>
+            <l>The wounded earth no plow.</l>
+            <l>The Corne growes green alone, and th' unhurt land</l>
+            <l>Doth white with harveſt ſtand.</l>
+            <l>The graſſe affords a ſtately bed, the Plane</l>
+            <l>Spreads thee to entertaine.</l>
+            <l>Arabian miſts ſweat from the gummy tree</l>
+            <l>Oſ Balme, and all for thee;</l>
+            <pb n="89" facs="tcp:121283:52"/>
+            <l>Which through the ayre, a rich perfume doe throw,</l>
+            <l>Fann'd with each neighb'ring bough.</l>
+            <l>Ariſe my Siſter deare, why doſt thou ſtay,</l>
+            <l>And ſpend th' unwilling day?</l>
+            <l>Behold thy harneſs'd Doves, at thy delay</l>
+            <l>Doe ſigh, come, drive away.</l>
+            <l>Put on, and hither drive thy beauteous paire</l>
+            <l>Of Doves, thy ſelfe more faire.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>To Ianuſius Skuminus.</hi> When hee performed the Funerall obſequies of his moſt deare Wife. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Ode 30. Lib. 4.</hi>
+            </head>
+            <l>WHat though the Gods have promis'd ſhe ſhall bee</l>
+            <l>Enfranchis'd to Eternity?</l>
+            <l>Yet (valiant Sir) ſo great a loſſe ſtill cryes</l>
+            <l>For a juſt tribute from your eyes;</l>
+            <l>View but her pious mind, that tow're of ſtate</l>
+            <l>Not ſhaken by ſad ſtormes of Fate,</l>
+            <pb n="91" facs="tcp:121283:53"/>
+            <l>Her humble innocent ſoule, her guiltleſſe feare,</l>
+            <l>Her modeſty chiefe Regent there;</l>
+            <l>The prudent thrift of her preſaging mind</l>
+            <l>Her conſtant zeale, pure and refin'd;</l>
+            <l>
+               <hi>And who can then forbeare t'embalme her Heaerſe</hi>
+            </l>
+            <l>
+               <hi>With the daily precious dew oſ teares?</hi>
+            </l>
+            <l>'Tis not in Fate to promiſe length of dayes,</l>
+            <l>To things of ſuch eſteeme and praiſe;</l>
+            <l>Nor can the ſtarrs ſuffer ſo ripe a birth</l>
+            <l>To be long ſullied with dull earth.</l>
+            <l>Load not the Heavens then with unjuſt complaints,</l>
+            <l>For taking back one of their Saints.</l>
+            <l>The courage of her richly temp'red breaſt</l>
+            <l>Made her for them a fitter gueſt:</l>
+            <l>Such jewells of her mind ſparkle about her</l>
+            <l>The ſtarres themſelves can't ſhine without her.</l>
+            <l>Thus <hi>Tanaquil;</hi> thus <hi>Claudia</hi>'s virgin band</l>
+            <l>Steer'd the unwilling Barke to land.</l>
+            <l>Thus ſhee, that durſt her Husbands fate abide,</l>
+            <l>And <hi>Cloelia</hi> over <hi>Tiber's</hi> tyde;</l>
+            <l>Too early crop'd, ſurvive in Poeſie,</l>
+            <l>And keepe perpetuall jubilie.</l>
+            <pb n="93" facs="tcp:121283:54"/>
+            <l>'Tis not in Art to fetch her back againe,</l>
+            <l>Or charme the ſpirits with <hi>Orpheus</hi> ſtraine,</l>
+            <l>To breake the bars of Adamant, or ſcale</l>
+            <l>The Rampiers of th' Elyſian wall,</l>
+            <l>No Oriſons prevaile, ſent from the breaſt</l>
+            <l>Of great <hi>Apollo</hi>'s choiſeſt Prieſt.</l>
+            <l>Yet in the arched entrance, chinks there bee,</l>
+            <l>Which may befriend the covetous eye;</l>
+            <l>Through theſe to th' hidden myſteries I peep,</l>
+            <l>And (if the ſpirits nor dream, nor ſleep)</l>
+            <l>I ſaw, or elſe me thoughts, I there had ſeene</l>
+            <l>Her, wandring o're a ſpacious Greene,</l>
+            <l>With walls of Diamond, gates of pureſt glaſſe,</l>
+            <l>No Chryſtall more tranſparent was:</l>
+            <l>Each blade of graſſe was gold, each tree was there,</l>
+            <l>A golden Periwig did weare.</l>
+            <l>The ſwelling banks of Violets did curle</l>
+            <l>Themſelves with Gems, and Orient Pearle;</l>
+            <l>The glorious nothing, of the <hi>Trigon</hi> glaſſe-</l>
+            <l>And all <hi>Apelles</hi> Art, which paſſe.</l>
+            <l>Through the ſweet vales a Quire of Damſels ſing</l>
+            <l>Eternall Paeans to their King.</l>
+            <l>The ſtars with ſparkling light ſtand round I ſee,</l>
+            <l>Twinkling to their ſhrill melodie.</l>
+            <pb n="95" facs="tcp:121283:55"/>
+            <l>Her and her tender darling, then I ſpy.</l>
+            <l>I' th' mid'ſt of that bleſt company;</l>
+            <l>With looks more freſh and ſweet, then are the Roſes</l>
+            <l>Of which her Garlands ſhee compoſes—</l>
+            <l>Two flowry Chaplets, which with Gems ſet round</l>
+            <l>Her owne and Nepew's temples crown'd.</l>
+            <l>But here a veyle was drawne, I muſt not prie</l>
+            <l>Nor ſearch too farre with mortall eye,</l>
+            <l>Nor would you more. It may ſuffice that ſhee</l>
+            <l>Hath chang'd fraile fleſh for bleſt Eternitie.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>To</hi> Albertus Turſcius. Of his Dreames, and Lyricks. Ode 32. Lib. 4.</head>
+            <l>VVHether a ſhorter ſleep, or whether</l>
+            <l>A long one <hi>(Turſcins)</hi> joyns mine eyes together</l>
+            <l>In my ſoft dreames, me thinks, I ſee</l>
+            <l>To my light ſhoulders wings ſet on, and I</l>
+            <l>With joy tranſported, upward ſoare,</l>
+            <l>The flowry Meddowes, and the paſtures o're;</l>
+            <l>Where the greene Grove its coole ſhade yeilds</l>
+            <l>To th' ſtately graſſe-plotts, and ripe ſwelling fields:</l>
+            <pb n="95" facs="tcp:121283:56"/>
+            <l>Straight, 'mid'ſt the river Swans, up hyer</l>
+            <l>A winged fowle above the cloudes I' aſpire;</l>
+            <l>The lively Lakes below, I ſleight,</l>
+            <l>And with ſweet ſtraines a bird I counterfeit.</l>
+            <l>See, now me thinkes, the cloudes in throngs</l>
+            <l>The lightning leaps too, at my raviſhing ſongs;</l>
+            <l>
+               <hi>Iris</hi> about my neck hangs round,</l>
+            <l>And with her divers colour'd bow, I' me bound.</l>
+            <l>Being now my ſelfe, and newly wak'd,</l>
+            <l>My not unwelcome dreames, juſt now off ſhak'd;</l>
+            <l>Thrice o're my Lute, I ſcarce had run</l>
+            <l>With nible finger neat diviſion;</l>
+            <l>Remembring <hi>Horace,</hi> Thee, my guide,</l>
+            <l>When my high Genius through th' ayre doth ride;</l>
+            <l>Now o're the ſcatt'red Iſlands, then</l>
+            <l>O're Seas, with dry feet paſſing back again;</l>
+            <l>Nothing that's mortall of mee, now</l>
+            <l>I beare, and nought to my dull bulke I owe.</l>
+            <l>Yet <hi>Turſcius</hi> thou haſt often told,</l>
+            <l>And warn'd mee, leſt then <hi>Icarus</hi> of old</l>
+            <pb n="97" facs="tcp:121283:57"/>
+            <l>By a true fall indeed, I make</l>
+            <l>A lowder tale, and change the name o' th' Lake.</l>
+            <l>In vaine: Remembring Him, I had</l>
+            <l>A care, and counſell, to my folly, add:</l>
+            <l>For when I ſleep, in bed I lye,</l>
+            <l>And if I write, my ſecure chaire holds mee.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>To <hi>Quintus Tiberinus.</hi> Ode 34. Lib. 4.</head>
+            <l>THou ſhalt not <hi>Tiberinus,</hi> call</l>
+            <l>Him rich, whoſe every Acre ſhall</l>
+            <l>Outvie the Eaſterne glebe, whoſe field</l>
+            <l>Faire Fortune's cleareſt ſtreame doth gild.</l>
+            <l>Nor him, whoſe birth, and pedigree</l>
+            <l>Is fam'd abroad by's Heraldrie;</l>
+            <l>Hee who by fleeting glory's hurld</l>
+            <l>In his rich Chariot through the world.</l>
+            <l>He's poore that wants himſelfe, yet weighs</l>
+            <l>Proudly himſelfe; in this ſcale layes</l>
+            <pb n="99" facs="tcp:121283:58"/>
+            <l>His lands, in th' other broad one, by,</l>
+            <l>The falſe weight of his gold doth lye,</l>
+            <l>Great to himſelfe, to others ſmall,</l>
+            <l>That never knowes himſelfe at all,</l>
+            <l>As the falſe people raiſe him higher,</l>
+            <l>Himſelfe in's ſhadow hee'l admire.</l>
+            <l>The faireſt Gemme without true light,</l>
+            <l>Without true praiſe great titles, ſlight:</l>
+            <l>Bleſt <hi>Tiberinus,</hi> and moſt free</l>
+            <l>In thy ſelfe alone thoul't learne to bee.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>To Paulus Coſlovius. <hi>Ode</hi> 35. <hi>Lib.</hi> 4.</head>
+            <l>THe Weſterne winds, with the warm breath o' th' Spring,</l>
+            <l>Returne, and o're our fields their ſoft gales fling:</l>
+            <l>The flowry-garniſh'd Meadowes by,</l>
+            <l>With freſheſt colours painted lye.</l>
+            <l>The River, which the gainfull ſhips ſo throng,</l>
+            <l>With welcome ſilence gently glides along,</l>
+            <l>Although the neighbouring Hill doth ring</l>
+            <l>With the ſhrill notes of birds that ſing;</l>
+            <pb n="101" facs="tcp:121283:59"/>
+            <l>Although the Swaine 'on the green bank that fits</l>
+            <l>Old Sonnets with his Oaten Pipe repeats,</l>
+            <l>Although the Seaman doth not faile</l>
+            <l>At length to ſtrike his full blowne ſayle.</l>
+            <l>To thy <hi>Palladian</hi> labours interpoſe</l>
+            <l>Such changes <hi>Paullus;</hi> when the Sun forth ſhowes</l>
+            <l>And with his golden preſence ſmiles</l>
+            <l>On the hye tops of higheſt Hills,</l>
+            <l>Wee'l mount the back of green <hi>Luciſcus,</hi> where</l>
+            <l>Hee's thickeſt ſet with talleſt Okes, and heare</l>
+            <l>The bubbling noiſe of ſtreames that flow</l>
+            <l>From Fountaines that cloſe by him goe.</l>
+            <l>Thence from the midſt o' th' hill all <hi>Vilna</hi> ſhall</l>
+            <l>Our proſpect be; our eye ſhall lower fall-</l>
+            <l>On <hi>Vilia</hi>'s cooler ſtreames, that wind,</l>
+            <l>And with embraces <hi>Vilna</hi> bind.</l>
+            <l>From thence, farre off, the Temples wee'l behold,</l>
+            <l>And radiant Scutcheons all adorn'd with gold;</l>
+            <l>Then wee'l looke o're that double towre,</l>
+            <l>Th' extent of great <hi>Palaemon</hi>'s pow're.</l>
+            <pb n="103" facs="tcp:121283:60"/>
+            <l>How in a ſettled peace, and kingdomes reſt</l>
+            <l>The eaſie people riſe themſelves, ſo bleſt!</l>
+            <l>Three Temples in three yeares w'have ſeen</l>
+            <l>To th' Citizens have reared been;</l>
+            <l>Where <hi>Gediminian</hi> Rocks themſelves extoll</l>
+            <l>With their plaine tops, and then the Capitol,</l>
+            <l>Thoſe buildings, whoſe proud turrets ſtretch</l>
+            <l>Themſelves to th' Cloudes, and ſtars doe reach:</l>
+            <l>Great things to greater growth doe thus increaſe,</l>
+            <l>And with leaſt paines, improve themſelves by peace.</l>
+            <l>Here, tops of Hills, themſelves behold,</l>
+            <l>In all their flowry pride unfold.</l>
+            <l>The Poplar now that ſhakes, when th' Eaſt winds blow,</l>
+            <l>Stood cloth' d in gray, under the ling'ring ſnow:</l>
+            <l>The Springs that now ſo nimbly riſe,</l>
+            <l>Were all of late lock'd up, in Ice.</l>
+            <l>The fields that now with bluſhing Roſes ſpread,</l>
+            <l>Lay barren, and in hardeſt froſt all hid:</l>
+            <l>The birds which chirping ſit i' th' Spring;</l>
+            <l>When Winter comes, forget to ſing.</l>
+            <pb n="105" facs="tcp:121283:61"/>
+            <l>Breake off delayes then, and from grievous care</l>
+            <l>A conſtant day, ſet by; which th' ev'ning faire</l>
+            <l>Doth promiſe, and the next dayes Sun</l>
+            <l>With his white Steeds will freely run.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>To Paulus Iordanus Vrſinus,</hi> Duke of <hi>Bracciano.</hi> Hee commends the pleaſantneſſe of the Coun<g ref="char:EOLhyphen"/>trey, where, in the feaſts of <hi>September,</hi> he retyred from <hi>Rome.</hi> Ode <hi>1.</hi> Lib. Epod.</head>
+            <l>APpeare ye ſpritefull Quire with choiceſt ſports,</l>
+            <l>All paſtime fit for <hi>Phoebus</hi> Courts;</l>
+            <l>And Thou great Maſter of the Revels, joyne</l>
+            <l>The Graces, to thy Daughters nine;</l>
+            <l>Witt pure and quaint, with rich conceits and free</l>
+            <l>From all obſcaene ſcurrilitie:</l>
+            <pb n="107" facs="tcp:121283:62"/>
+            <l>Here free from care, nimbly let's dance a round</l>
+            <l>Upon <hi>Bracciano</hi>'s ſofter ground.</l>
+            <l>A gentle Cliffe from a ſteep Hill doth riſe</l>
+            <l>That even to Heaven, mounts by degrees,</l>
+            <l>And ſafe, with uncouth paſſage, leanes upon</l>
+            <l>The ſolid backs, of Rocks and ſtone:</l>
+            <l>Whence 'mid'ſt the Bulwark'd Forts, we may deſcry</l>
+            <l>A diſplayd Banner from on hye,</l>
+            <l>Which to th' Imperiall force a terrour was,</l>
+            <l>A terrour to great <hi>Borgias,</hi>
+            </l>
+            <l>When through the braſen troops of's threatning foes,</l>
+            <l>His fearfull thunder-bolts he throwes,</l>
+            <l>Purſuing routed <hi>Caeſar,</hi> whom he brought</l>
+            <l>To that he promis'd him, to <hi>nought.</hi>
+            </l>
+            <l>Great <hi>Urſin</hi> here puts reynes to th' <hi>Tuſcan</hi> pow're</l>
+            <l>The grace of <hi>Heroes</hi> and the flow're;</l>
+            <l>Heire to his father's worth, chiefe guide and ſtay</l>
+            <l>And praiſe of great <hi>Oenotria.</hi>
+            </l>
+            <l>A Bow're growes green, ſet round with trembling Okes</l>
+            <l>Which fanns the Heavens with gentle ſtrokes.</l>
+            <pb n="109" facs="tcp:121283:63"/>
+            <l>It clothes the Hills, and ſpreads it ſelfe all over</l>
+            <l>To th' open Theaters a cover.</l>
+            <l>Cloſe joyn'd to th' walls, the Nymphs coole Arbour ſtands,</l>
+            <l>Which to the Sunny ſhore commands;</l>
+            <l>By theſe a banke of Vines, which th' neighbour Trench</l>
+            <l>With milder waves doth daily drench.</l>
+            <l>Nowhere the Lakes with fuller Sea doth roare,</l>
+            <l>Either of <hi>Larius</hi> that boyles o're,</l>
+            <l>Or rough <hi>Albanus</hi> whoſe troubled waves doe mix</l>
+            <l>With the unnavigable Styx:</l>
+            <l>Not ſtormy <hi>Julia,</hi> when her ſwelling pride</l>
+            <l>Moſt rageth in her higheſt tyde,</l>
+            <l>
+               <hi>Benacus</hi> doth not raiſe more froth, when he</l>
+            <l>Aſſaults the rocks with fierceſt Sea.</l>
+            <l>With rugged tops the bending mountaines round</l>
+            <l>Upon the ſlow calme ſtreames looke downe.</l>
+            <l>
+               <hi>Romanus</hi> here his ſnowy back up-reares,</l>
+            <l>And drawes downe envy from the ſtarres:</l>
+            <l>The lofty head of <hi>Cyminus</hi> here ſhakes</l>
+            <l>The Oke with trembling leaves which quakes,</l>
+            <pb n="111" facs="tcp:121283:64"/>
+            <l>And holds off <hi>Boreas,</hi> when his rawer blaſts</l>
+            <l>'Gainſt the weake Southerne winds he caſts,</l>
+            <l>Commands the Country farre, and out he ſets</l>
+            <l>His Winter ſides againſt Heavens threats.</l>
+            <l>Meane while a pleaſant calme doth ſmooth the Lake,</l>
+            <l>The waves 'gainſt one another breake,</l>
+            <l>Mild <hi>Thetis</hi> ſelfe, with her own ſelfe finds ſport,</l>
+            <l>And waters doe the waters court:</l>
+            <l>Through which a ſhip doth cut, with pleaſant gales,</l>
+            <l>Or nimble Barke with ſwelling ſayles:</l>
+            <l>The large-fin'd Chryſtall cattell as they goe</l>
+            <l>Are forced whether they will or no</l>
+            <l>With ready dragnet; then with lines of haire</l>
+            <l>They round the Lake, or Nets more rare.</l>
+            <l>Rich <hi>Polla's</hi> ſtately houſe there ſhines, and here</l>
+            <l>Full ſtored Fiſh-ponds doe appeare:</l>
+            <l>The friendly Foords which toward the Sea doe lye</l>
+            <l>Water <hi>Trebonian</hi> Vineyards by:</l>
+            <l>Here neat <hi>Aurelius</hi> farme looks gay, chiefe Lord</l>
+            <l>And Maſter of that healthfull Foord,</l>
+            <pb n="113" facs="tcp:121283:65"/>
+            <l>Whoſe water cures diſeaſes, whoſe quick ſprings</l>
+            <l>Doe purge out all infectious things.</l>
+            <l>Where <hi>Flora</hi> makes the banks, and gives the name</l>
+            <l>To Fountaines, proud of ſo much fame;</l>
+            <l>From lively ſtones perpetuall waters flow,</l>
+            <l>And waſh the fields whereſoe're they goe,</l>
+            <l>Their father <hi>Tyber,</hi> and their King they ſound</l>
+            <l>And flow to <hi>Rome,</hi> with homage bound.</l>
+            <l>Nature doth purely there advance each part,</l>
+            <l>Not any place is help'd by Art:</l>
+            <l>As yet the virgin furrow, th' Hills yet ſtand</l>
+            <l>Untouch'd, by any tender hand.</l>
+            <l>Chaſt <hi>Tethys, Bacchus</hi> courts, <hi>Thetis</hi> doth woo</l>
+            <l>
+               <hi>Bacchus</hi> againe, and <hi>Ceres</hi> too.</l>
+            <l>Hence <hi>Evius</hi> cheerfull riſes, and doth twine</l>
+            <l>With th' Elme, that cloſely clings toth' Vine,</l>
+            <l>With' s plenteous horne he ſwells, his locks hang by-</l>
+            <l>With flowing Cluſters tangled lye.</l>
+            <l>Not <hi>Lesbos</hi> him, nor the ſweet ſmelling grace,</l>
+            <l>Of rich <hi>Campania</hi>'s fruitfull race</l>
+            <pb n="115" facs="tcp:121283:66"/>
+            <l>Delights; the purple Grape not ſo faire ſhowes,</l>
+            <l>In the <hi>Falernian</hi> ſun that growes.</l>
+            <l>Hee'l not preferre <hi>Faliſcus</hi> ſandy ground,</l>
+            <l>Nor <hi>Rhaetia,</hi> that doth ſo abound;</l>
+            <l>The yellow Tilths of happy <hi>Cyprus,</hi> hee</l>
+            <l>Ne're lov'd ſo much, nor <hi>Rhodos</hi> by:</l>
+            <l>As in his owne — in his owne channells hee</l>
+            <l>Hugging himſelfe, doth proudly lye.</l>
+            <l>Sole Empreſſe <hi>Ceres</hi> of the fertile lands</l>
+            <l>Whoſe large poſſeſſions ſhee commands:</l>
+            <l>The fields with yellow waves doe ebbe and flow,</l>
+            <l>The ripe eares ſwim, when winds doe blow.</l>
+            <l>No vapour, here, Heavens cleared face doth ſtaine,</l>
+            <l>No clowdy fleece ſtretch'd out with raine:</l>
+            <l>The Northerne blaſts are ſtill, and all at peace,</l>
+            <l>And the hoarſe noiſe o' th' woods doth ceaſe:</l>
+            <l>The ſtubborne <hi>Africke</hi> winds that uſe to ſtray</l>
+            <l>About th' unruly ſandy Sea,</l>
+            <l>Are all huſh'd up, and no Alarum ſound</l>
+            <l>To th' other winds, entrenched round;</l>
+            <pb n="117" facs="tcp:121283:67"/>
+            <l>Onely the Evening faire, a gentle gale</l>
+            <l>Of winds that each year never faile:</l>
+            <l>The bright Sun darting through th' enlightned Ayre</l>
+            <l>His beames, doth guild the Moutaines cleare,</l>
+            <l>The houres drive on heav'ns torch, that ſhine ſo bright,</l>
+            <l>And <hi>Phoebus</hi> father of the light-</l>
+            <l>With a peculiar influence bedewes</l>
+            <l>The Hills all o're, when night enſues.</l>
+            <l>The warme <hi>Favonian</hi> winds with whiſtling gale,</l>
+            <l>Doe merrily the boughs aſſaile,</l>
+            <l>And with their temperate breath, and gentle noiſe,</l>
+            <l>Sweet pleaſing ſlumbers ſoftly raiſe.</l>
+            <l>The prattling Neſts meane while no ſilence keep,</l>
+            <l>Their wandring gueſts ne're ſleep.</l>
+            <l>To's mate, the Turtle 'mong'ſt the branches grones,</l>
+            <l>And with complaints breakes hardeſt ſtones,</l>
+            <l>The Nightingale, the pleaſant Groves about</l>
+            <l>Refreſheth, with her warbling note,</l>
+            <l>Bewayles her loſſe to th' woods, i' th' cruell fields</l>
+            <l>'Gainſt <hi>Tereus</hi> her cryes ſhee yeilds:</l>
+            <pb n="119" facs="tcp:121283:68"/>
+            <l>And what the mournfull birds doe ſo complaine,</l>
+            <l>The ſhrill woods anſwer back againe.</l>
+            <l>The Oke, the Alder tells; the Poplar tree</l>
+            <l>The Aſh; and that, the Elme ſtands by.</l>
+            <l>The Groves rejoyce with th' Eccho they afford</l>
+            <l>And tell them backe—ev'n word for word.</l>
+            <l>
+               <hi>Jordanus</hi> here, hither thy ſelfe command,</l>
+            <l>Great Ruler of th' <hi>Oenotrian</hi> land.</l>
+            <l>Withdraw thy ſelfe from cares, from all reſort</l>
+            <l>So cloy'd with' Citie, and with Court,</l>
+            <l>So full of great affaires, at length thy breaſt</l>
+            <l>Convey to thy domeſtick reſt.</l>
+            <l>Here thou may'ſt paſſe thy Foord, in gloomy ſhade,</l>
+            <l>On each ſide, by thine owne trees made,</l>
+            <l>And here between thy Mounts, with tall Okes ſet,</l>
+            <l>A large walke thou ſhalt get:</l>
+            <l>Or in <hi>December,</hi> when the fields looke white,</l>
+            <l>And th' Hills, with the' earlyeſt ſnow doth light;</l>
+            <l>Sometime th' entangled game, with twining nett</l>
+            <l>I' th' wood, with feare thou ſhalt beſett:</l>
+            <pb n="121" facs="tcp:121283:69"/>
+            <l>Sometimes with courſer fleet, purſue full ſore,</l>
+            <l>The Buck thou mayſt, ſometimes the Bore;</l>
+            <l>With thy thrown dart the red Deer thou ſhalt ſtick.</l>
+            <l>And th' frighted ravenous Wolves ſhalt ſtrick,</l>
+            <l>And if that Starre o' th' ſacred dignity</l>
+            <l>The glory of all <hi>Italy,</hi>
+            </l>
+            <l>Will alſo from his cares, himſelfe make free,</l>
+            <l>And keepe his Feſtivals with thee;</l>
+            <l>Each Citizen of thine, and every gueſt</l>
+            <l>With the compleateſt joy is bleſt.</l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <head>
+               <hi>To the Fountaine Sona,</hi> When hee returned. Ode 2. Lib. Epod.</head>
+            <l>O Fount more cleare then ſpotleſſe glaſſe,</l>
+            <l>More pure, then pureſt ſnow e're was,</l>
+            <l>The Nymphs deſire, and Countries grace,</l>
+            <l>Thou joy of this my Native place.</l>
+            <l>Tyr'd with a tedious journey, I,</l>
+            <l>And preſs'd with cares that grievous lye,</l>
+            <pb n="123" facs="tcp:121283:70"/>
+            <l>From the farre <hi>Tuſcan</hi> Land made free</l>
+            <l>Thus low I bow my ſelfe to thee:</l>
+            <l>Oh, if thou canſt, vouchſafe to bee</l>
+            <l>Preſs'd, and with hollow palme drawne dry!</l>
+            <l>So let thy peace no wandring beaſt</l>
+            <l>Diſturb, no broken bough, thy reſt:</l>
+            <l>So when thou cutt'ſt with prattling noiſe</l>
+            <l>The Meads, and leap'ſt, men heare thy voice;</l>
+            <l>May th' whiſtling leaves of Poplar trees</l>
+            <l>With their unwelcome murmurs ceaſe-</l>
+            <l>To thee, and thy Prieſts Lute: if nought</l>
+            <l>
+               <hi>Urban</hi> approves, in vaine is thought</l>
+            <l>T'<hi>Blanduſia</hi> thou canſt nothing owe;</l>
+            <l>Nor to milde flowing <hi>Sirmio.</hi>
+            </l>
+         </div>
+         <div xml:lang="eng" type="ode">
+            <pb n="125" facs="tcp:121283:71"/>
+            <head>
+               <hi>A Palinode</hi> To the ſecond Ode of the booke of Epodes of <hi>Q. H. Flaccus.</hi> The praiſe of a Religious Recreation. Ode <hi>3.</hi> Lib. Epod.</head>
+            <l>BUt, <hi>Flaccus,</hi> now more happy he appeares,</l>
+            <l>Who, with the burthen of his cares,</l>
+            <l>Farre off hath left his father's ground, ſet free</l>
+            <l>From the fierce wrangling Lawyer's fee;</l>
+            <l>No ſcorching heat, nor blaſts of Winter <hi>Jove,</hi>
+            </l>
+            <l>Doth hurt his fruit, or him can move;</l>
+            <l>Hee ſhuns all ſtrifes, and never doth reſort</l>
+            <l>The ſinfull gates o' th' greedy Court.</l>
+            <l>But either doth bewayle thoſe dayes and nights,</l>
+            <l>Loſt by him in prophane delights;</l>
+            <l>Or elſe retyr'd, ſtrives to collect and find</l>
+            <l>The diſpers'd flock of's wandring mind;</l>
+            <l>Having firſt fairly pois'd the recompence</l>
+            <l>And gaines of a good conſcience.</l>
+            <pb n="127" facs="tcp:121283:72"/>
+            <l>At evening, when the harbinger of night</l>
+            <l>The torches of the sky doth light,</l>
+            <l>How he admires th' immortall rayes breake forth,</l>
+            <l>And their bright Orbes, more large then earth;</l>
+            <l>How through his trickling teares, he helps his ſight,</l>
+            <l>Unto the open Courts of light,</l>
+            <l>Which with thy ſelfe, ô Chriſt, thy ſelfe in pray'r</l>
+            <l>He' Adores, t' Eternall life an heire!</l>
+            <l>The Starres with golden wheeles, are hurried by,</l>
+            <l>And let their proſtrate exile lye,</l>
+            <l>Over whoſe face, the plenteous teares doe ſtray,</l>
+            <l>Which chaſe all drowſie ſleepe away;</l>
+            <l>Aſſoone as <hi>Phoebus</hi> head begins t'appeare,</l>
+            <l>Lately in <hi>Indus</hi> ſtreames made cleare,</l>
+            <l>From depth of ſoule, leſſe then himſelfe he lies,</l>
+            <l>And bends the angry pow'rs with cryes:</l>
+            <l>Or when the Sun ſhines cleare, the aire ſerene,</l>
+            <l>And <hi>Aprill</hi> Feſtivals begin,</l>
+            <l>His eyes, ſo us'd to Heaven, he downe doth throw,</l>
+            <l>On a large proſpect here below:</l>
+            <pb n="129" facs="tcp:121283:73"/>
+            <l>He viewes the fields, and wondring ſtands to ſee</l>
+            <l>In's ſhade the ſhining Deitie.</l>
+            <l>See how (ſaies he) each herb with reſtleſſe leaves</l>
+            <l>To th' ſtarres doth ſtrive and upward heaves:</l>
+            <l>Remov'd from heaven they weep, the field appeares</l>
+            <l>All o're diſſolv'd in pious teares:</l>
+            <l>The white-flowr'd Woodbine, and the bluſhing Roſe</l>
+            <l>Branch into th' aire with twining boughs;</l>
+            <l>The pale-fac'd Lilly on the bending ſtalke,</l>
+            <l>To th' ſtarres I know not what doth talke;</l>
+            <l>At night with fawning ſighes they'expreſſe their fears</l>
+            <l>And in the morning drop downe teares.</l>
+            <l>Am I alone, wretch that I am, faſt bound</l>
+            <l>And held with heavy weight, to th' ground?</l>
+            <l>Thus ſpake he to the neigbouring trees, thus he</l>
+            <l>To th' Fountaines talk'd, and ſtreames ran by,</l>
+            <l>And after, ſeekes the great Creator out</l>
+            <l>By theſe faire traces of his foot.</l>
+            <l>But if a lightſome Country houſe that's free</l>
+            <l>From care, ſuch as <hi>Luciſcu's</hi> bee,</l>
+            <pb n="131" facs="tcp:121283:74"/>
+            <l>Or <hi>Nemicini' s,</hi> if <hi>Beſdan</hi>'s fruitfull field</l>
+            <l>Can Grace to his rude table yeild,</l>
+            <l>To his plaine board with country dainties ſet,</l>
+            <l>In <hi>Auguſt</hi>'s dry and parching heat;</l>
+            <l>Even at his dore, under a private ſhade</l>
+            <l>By a thick pleaſant Poplar made,</l>
+            <l>Proviſion of all ſorts, expect their gueſt,</l>
+            <l>A ſhell with ſalt, pure and the beſt,</l>
+            <l>New bread, for which, 'midſt the thin bryars, the Mayd</l>
+            <l>Picks Strawberries, and's gladly payd.</l>
+            <l>Cheeſe newly preſs'd, cloſe by, the friendly Cann</l>
+            <l>With Cup cleane waſh'd, doth ready ſtan'<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </l>
+            <l>With me the <hi>Lucrine</hi> dainties will not downe,</l>
+            <l>The Scare, nor Mullet that's well growne;</l>
+            <l>But the Ring-dove plump, the Turtle dun doth looke,</l>
+            <l>Or Swan, the ſojourner o' th' brooke,</l>
+            <l>A meſſe of Beanes which ſhuns the curious pallet,</l>
+            <l>The cheerfull and not ſimple ſallet;</l>
+            <l>Cluſters of grapes laſt gathered, that miſſe</l>
+            <l>And nothing owe to th' weighty preſſe.</l>
+            <pb n="133" facs="tcp:121283:75"/>
+            <l>Then after noone he takes a kind of pride</l>
+            <l>To th' Hills to walke, or River ſide,</l>
+            <l>And 'midſt the pleaſant Okes, a ſhade doth find,</l>
+            <l>T'avoyd the blaſts o' th' Southern wind;</l>
+            <l>To th' darkſome ſhore, by the deep poole he goes,</l>
+            <l>And through, with nimble Boat he rowes;</l>
+            <l>Sometimes the ſporting fiſh, his baite thrown in,</l>
+            <l>Hee plucks up with his trembling line.</l>
+            <l>Meane while th' ſpacious woods with ecchoing note</l>
+            <l>Doe anſwer to the Bulls wide throat,</l>
+            <l>The ſhady rivers bleat; the Nightingale</l>
+            <l>I' th' buſhes chirps her dolefull tale.</l>
+            <l>With' s haſtning pipe the ſheapheard drives away</l>
+            <l>His flocke, which through the thickets ſtray:</l>
+            <l>To which as from the field they paſſe along,</l>
+            <l>Each mower ſings by courſe, his ſong;</l>
+            <l>O're yeilding furrowes, carts full preſs'd with corne</l>
+            <l>Groane, and are like to breake the barne.</l>
+            <l>Our worke once done, we doe not ſilent ſit,</l>
+            <l>When knots of our good fellowes meet;</l>
+            <pb n="135" facs="tcp:121283:76"/>
+            <l>Nor is our talke prolong'd with rude delay;</l>
+            <l>In harmleſſe jeſts we ſpend the day;</l>
+            <l>Jeſts dip'd in ſo much ſalt, which rubbing ſhall</l>
+            <l>Onely make freſh our cheeks, not gall.</l>
+            <l>If that rich churle, this had but ſeen, when hee</l>
+            <l>A Country man began to be,</l>
+            <l>The money which i' th' Ides hee ſcraped in</l>
+            <l>Next month hee'd not put out agen.</l>
+         </div>
+         <div xml:lang="eng" type="epigram">
+            <head>
+               <hi>Epig.</hi> 4. Let my beloved come into his Garden. <hi>Cant.</hi> 5.</head>
+            <l>LOve takes the tooles of a rude Country clowne,</l>
+            <l>His owne Artill'ry, and his torch layes down;</l>
+            <l>With ſtaffe in's hand, Oxen to th' Plow he ſet</l>
+            <l>For tillage, and ſuch honeſt labour fit;</l>
+            <l>Straight, as he turn'd up hearts with eaſie ſhare,</l>
+            <l>And grace i' th' virgin-furrowes did appeare,</l>
+            <l>'Mongſt thouſand others, one flower, quoth he, is miſt:</l>
+            <l>That none may wanting be, come thou, O Chriſt.</l>
+         </div>
+         <div xml:lang="eng" type="epigram">
+            <pb n="137" facs="tcp:121283:77"/>
+            <head>
+               <hi>Who is thy Beloved?</hi> Out of Cant. <hi>5.</hi> Lib. Epig. <hi>37.</hi>
+            </head>
+            <l>WHat is that Spouſe of thine? that faireſt Hee?</l>
+            <l>The barb'rous people ſaid, of late, to mee.</l>
+            <l>A Pen I tooke, and in a Tablet drew</l>
+            <l>Whatſoe're, O Chriſt, in thy bleſt orbe I view</l>
+            <l>Roſes, and Gold I paint, Gems, Groves, Corne-land,</l>
+            <l>Green Gardens, Lakes, and Stars with nimble hand;</l>
+            <l>Would you needs learne, what might my faireſt bee?</l>
+            <l>Looke o're this tablet, pray, O ſuch was Hee.</l>
+         </div>
+         <div xml:lang="eng" type="epigram">
+            <head>Epig. 40.</head>
+            <l>THou run'ſt, &amp; running cry'ſt, why doſt thou ſtay</l>
+            <l>My Spouſe? thou would'ſt be ta'ne, not get away.</l>
+         </div>
+         <div xml:lang="eng" type="epigram">
+            <pb n="139" facs="tcp:121283:78"/>
+            <head>
+               <hi>Ep. 48.</hi> To— bearing Lillyes in her hand.</head>
+            <l>THeſe Lillyes which on virgin ſtalks doe bend,</l>
+            <l>From whence do they their chaſter leaves extend?</l>
+            <l>The <hi>Paeſtan</hi> beds ſuch flowres did ne're bring forth,</l>
+            <l>Nor <hi>Pharian</hi> fields e're gloried in ſuch worth:</l>
+            <l>
+               <hi>Alcinous</hi> purple banks, ne're teem'd with theſe,</l>
+            <l>Nor rich <hi>Caryſtos</hi> watred by the Seas.</l>
+            <l>Since then theſe flow'res no native place do know,</l>
+            <l>Who can deny from her chaſt hand they grow.</l>
+         </div>
+         <div xml:lang="eng" type="epigram">
+            <head>
+               <hi>Ex. Lib. Ep.</hi> 51. To <hi>Iohan de Lugo,</hi> when after a long ſick<g ref="char:EOLhyphen"/>neſſe, he returned to his intermitted Lecture of Repentance.</head>
+            <l>WIth hairs unkemb'd Repentance late did mourn,</l>
+            <l>When with ſo feirce a Feaver thou wert torne:</l>
+            <l>Shee's ſaid, to let looſe raynes t'untamed griefe,</l>
+            <l>To affoord her moyſt'ned boſome, no reliefe,</l>
+            <pb n="141" facs="tcp:121283:79"/>
+            <l>But when th' desks agen, thy ſickneſſe tam'd,</l>
+            <l>Thou mountd'ſt, ſhe's ſaid her careleſs haire t'have kemb'd</l>
+            <l>T'have bridled in her conquer'd griefe, and ſmile,</l>
+            <l>Of teares, her open'd boſome to beguile.</l>
+            <l>Who cannot then be glad, thou being ſafe?</l>
+            <l>When teares rejoyce, and griefe it ſelfe doth laugh.</l>
+         </div>
+         <div xml:lang="eng" type="epigram">
+            <head>The voyce of Chriſt upon the Croſſe. <hi>I THIRST.</hi>
+            </head>
+            <l>ALas I thirſt, great King, thou loude doſt grone;</l>
+            <l>I have no pleaſant Wine for Thee, thirſt on,</l>
+            <l>Yet oh I thirſt, thou cry'ſt: a Cup to thee</l>
+            <l>Woes mee! I' le give: but mix'd with gall't muſt be.</l>
+            <l>Drink this, my Spouſe: perhaps thou'lt ask to whom?</l>
+            <l>To me, O Chriſt, to th' health o' th' world let't come.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur,</hi> Na. Brent. <hi>Feb.</hi> 10. 1645.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
